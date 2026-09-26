@@ -8,13 +8,14 @@ Summary
 - Monochrome sprites stored in PROGMEM for low RAM usage
 - Side-scrolling level with rings, simple enemies (meat & motor bugs), trees and a boss
 - Player movement, jumping, ring collection, basic scoring and simple buzzer sounds
-Demo
--Link: https://youtube.com/shorts/8RqrcE4Sohk?feature=share
 Hardware
 - MCU: Arduino Uno / Nano / ESP32 (adjust pins for your board)
 - SSD1306 I2C 128x64 OLED display
 - Buzzer on a PWM-capable digital pin
 - Button for input (and optional analog joystick)
+
+Demo
+-Link: https://youtube.com/shorts/8RqrcE4Sohk?feature=share
 
 Default wiring used in the code
 - SSD1306: I2C (Wire). AVR: SDA=A4, SCL=A5. ESP32: SDA=21, SCL=22.
