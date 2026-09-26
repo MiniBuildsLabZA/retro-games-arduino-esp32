@@ -8,7 +8,8 @@ Summary
 - Monochrome sprites stored in PROGMEM for low RAM usage
 - Side-scrolling level with rings, simple enemies (meat & motor bugs), trees and a boss
 - Player movement, jumping, ring collection, basic scoring and simple buzzer sounds
-
+Demo
+-Link: https://youtube.com/shorts/8RqrcE4Sohk?feature=share
 Hardware
 - MCU: Arduino Uno / Nano / ESP32 (adjust pins for your board)
 - SSD1306 I2C 128x64 OLED display
