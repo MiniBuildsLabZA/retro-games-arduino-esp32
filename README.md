@@ -1,10 +1,11 @@
 # DIY Arduino & ESP32 Projects
 
-A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and learning examples for beginners.
+A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and sensor-based experiments designed to help makers learn embedded systems programming.
 
 ## 📚 Project Collection
 
 ### Game Projects
+- **Arduino TFT Radar** - Ultrasonic radar simulation with an ST7735 TFT display and servo sweep (directory: `Arduino TFT Radar`)
 - **Block Breaker** - A classic block-breaking game implementation on Arduino (directory: `Block-Breaker-on-arduino`)
 - **Bounce** - A bouncing game for Arduino with interactive controls (directory: `Bounce_on_arduino`)
 - **Dino Run** - Chrome's famous Dinosaur runner game ported to Arduino (directory: `Dino_Run`)
@@ -13,6 +14,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 - **Mario** - Super Mario-inspired platformer game on Arduino (directory: `Mario on Arduino`)
 - **Pac-Man** - Pac-Man game implementation on Arduino (directory: `Pac-Man_on_arduino`)
 - **Pixel Soccer** - Soccer simulation game with pixel graphics (directory: `Pixel-soccer`)
+- **Pseudo-3D Racing Game on Arduino** - A pseudo-3D racing game experience on Arduino (directory: `Pseudo-3D Racing Game on Arduino`)
+- **Racing Game on ESP32** - A fast racing game built for the ESP32 platform (directory: `Racing Game on ESP32`)
 - **Snake Game** - Classic Snake game with OLED display support (directory: `Snake-game-with-oled`)
 - **Sonic (v1)** - Mini Sonic-style platformer on Arduino featuring OLED (directory: `SonicOnArduino`)
 - **Sonic (v2)** - Updated Sonic port / improved version (directory: `SonicOnArduinoVersion2`)
@@ -27,6 +30,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 
 - **Microcontrollers**: Arduino, Arduino UNO, ESP32
 - **Display Options**: OLED displays, TFT displays
+- **Sensors & Modules**: Ultrasonic sensors, servos, joysticks, buzzers
 - **Primary Language**: C++
 - **Firmware**: Arduino IDE compatible sketches
 
@@ -35,6 +39,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 Perfect for beginners learning electronics, microcontrollers, and embedded systems programming. Each project includes practical examples of:
 - GPIO control
 - Display interfacing
+- Sensor integration
 - Game logic implementation
 - Hardware integration
 
@@ -44,7 +49,7 @@ Each project directory contains the necessary code and documentation to get star
 1. Open the project folder in the Arduino IDE (or VS Code with PlatformIO)
 2. Install any required libraries (see each project's README)
 3. Connect the board and upload the sketch
-4. Follow wiring diagrams included in project folders for displays, buttons, and motors
+4. Follow wiring diagrams included in project folders for displays, buttons, sensors, and motors
 
 If you need help with a specific project, open an issue or check the project's directory for more detailed instructions.
 
@@ -53,12 +58,13 @@ If you need help with a specific project, open an issue or check the project's d
 - Beginner-friendly code examples
 - Multiple game implementations
 - Hardware control demonstrations
+- Sensor-based interactive projects
 - OLED and TFT display projects
 - Educational value for learning microcontroller programming
 
 ---
 
 **Created**: November 5, 2025  
-**Last updated**: August 13, 2026
+**Last updated**: September 26, 2026  
 **Language**: C++  
 **License**: Open Source
