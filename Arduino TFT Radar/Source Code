@@ -1,0 +1,194 @@
+#include <Adafruit_GFX.h>
+#include <Adafruit_ST7735.h>
+#include <SPI.h>
+#include <Servo.h>
+
+
+// --- TFT pins ---
+#define TFT_CS   10
+#define TFT_DC    9
+#define TFT_RST   8
+Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
+
+
+// --- HC-SR04 pins ---
+#define TRIG_PIN 2
+#define ECHO_PIN 3
+
+
+// --- Servo ---
+Servo myServo;
+#define SERVO_PIN 6
+
+
+// --- Buzzer ---
+#define BUZZER_PIN 7
+
+
+#define ST77XX_DARKGREY 0x7BEF
+
+
+// Radar setup
+const int CENTER_X = 64;
+const int CENTER_Y = 150;
+const int MAX_RADIUS = 60;
+const int MAX_DISTANCE = 10; // cm
+
+
+// Trail settings
+const unsigned long TRAIL_DURATION = 2000; // 2 seconds
+
+
+struct DetectedPoint {
+  int x;
+  int y;
+  unsigned long time;
+};
+
+
+#define MAX_POINTS 50
+DetectedPoint points[MAX_POINTS];
+int pointCount = 0;
+
+
+void setup() {
+  Serial.begin(9600);
+
+
+  // TFT
+  tft.initR(INITR_BLACKTAB);
+  tft.setRotation(2);
+  tft.fillScreen(ST77XX_BLACK);
+  drawRadarBackground(); // draw static background once
+
+
+  // HC-SR04
+  pinMode(TRIG_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
+
+
+  // Servo
+  myServo.attach(SERVO_PIN);
+  myServo.write(0);
+
+
+  // Buzzer
+  pinMode(BUZZER_PIN, OUTPUT);
+  digitalWrite(BUZZER_PIN, LOW);
+}
+
+
+void loop() {
+  // Sweep forward
+  for (int angle = 0; angle <= 200; angle += 5) scanAngle(angle);
+  // Sweep backward
+  for (int angle = 200; angle >= 0; angle -= 5) scanAngle(angle);
+}
+
+
+void scanAngle(int angle) {
+  static int lastSx = CENTER_X, lastSy = CENTER_Y;
+
+
+  myServo.write(angle);
+  delay(20); // smooth servo movement
+
+
+  int distance = getDistance();
+
+
+  // Map angle to horizontal radar coordinates
+  float rad = radians(map(angle, 0, 180, 180, 0));
+  int r = map(distance, 0, MAX_DISTANCE, 0, MAX_RADIUS);
+  r = constrain(r, 0, MAX_RADIUS);
+
+
+  int x = CENTER_X + r * cos(rad);
+  int y = CENTER_Y - r * sin(rad);
+
+
+  // Store detected point
+  if (distance > 0 && distance < MAX_DISTANCE) {
+    if (pointCount < MAX_POINTS) {
+      points[pointCount++] = {x, y, millis()};
+    } else {
+      for (int i = 1; i < MAX_POINTS; i++) points[i - 1] = points[i];
+      points[MAX_POINTS - 1] = {x, y, millis()};
+    }
+  }
+
+
+  // Draw fading detected points (red trail)
+  unsigned long now = millis();
+  for (int i = 0; i < pointCount; i++) {
+    unsigned long age = now - points[i].time;
+    if (age > TRAIL_DURATION) {
+      for (int j = i + 1; j < pointCount; j++) points[j - 1] = points[j];
+      pointCount--;
+      i--;
+      continue;
+    }
+    uint8_t brightness = map(age, 0, TRAIL_DURATION, 255, 50); // fade over time
+    uint16_t color = tft.color565(brightness, 0, 0);
+    tft.fillCircle(points[i].x, points[i].y, 3, color);
+  }
+
+
+  // Draw sweep line
+  int sx = CENTER_X + MAX_RADIUS * cos(rad);
+  int sy = CENTER_Y - MAX_RADIUS * sin(rad);
+  tft.drawLine(CENTER_X, CENTER_Y, sx, sy, ST77XX_GREEN);
+
+
+  // Erase previous sweep line
+  if (lastSx != CENTER_X || lastSy != CENTER_Y) {
+    tft.drawLine(CENTER_X, CENTER_Y, lastSx, lastSy, ST77XX_BLACK);
+  }
+  lastSx = sx;
+  lastSy = sy;
+
+
+  // Buzzer for very close object
+  if (distance > 0 && distance < 50) tone(BUZZER_PIN, 1000, 50);
+
+
+  // Display distance
+  tft.setCursor(2, 2);
+  tft.setTextColor(ST77XX_WHITE, ST77XX_BLACK);
+  tft.setTextSize(1);
+  tft.print("Dist: ");
+  if (distance > 0) tft.print(distance);
+  else tft.print("--");
+  tft.print("cm");
+}
+
+
+int getDistance() {
+  digitalWrite(TRIG_PIN, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG_PIN, LOW);
+
+
+  long duration = pulseIn(ECHO_PIN, HIGH, 20000);
+  if (duration == 0) return -1;
+
+
+  return duration * 0.034 / 2;
+}
+
+
+void drawRadarBackground() {
+  // Rings
+  for (int r = 20; r <= MAX_RADIUS; r += 20) {
+    tft.drawCircle(CENTER_X, CENTER_Y, r, ST77XX_DARKGREY);
+  }
+  // Base horizontal line
+  tft.drawLine(CENTER_X - MAX_RADIUS, CENTER_Y, CENTER_X + MAX_RADIUS, CENTER_Y, ST77XX_DARKGREY);
+  // Label
+  tft.setCursor(2, 2);
+  tft.setTextColor(ST77XX_WHITE);
+  tft.setTextSize(1);
+  tft.print("Radar Scan");
+}
