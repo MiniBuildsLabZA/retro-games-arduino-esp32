@@ -12,7 +12,8 @@ This project recreates the popular Flappy Bird game for embedded systems. The ga
 - **Score Tracking** with audio feedback
 - **Game Over Detection** with collision handling
 - **Multiple Sprite Animations** for bird movement states
-
+## Demo
+Link: https://youtube.com/shorts/XYnEovBdsMg?feature=share
 ## 🛠️ Hardware Requirements
 
 - **Arduino Board** (Arduino Uno, Nano, or compatible)
