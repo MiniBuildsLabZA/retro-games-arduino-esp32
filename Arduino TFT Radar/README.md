@@ -22,7 +22,8 @@ into a small radar-style detector. The sensor measures distance while the servo 
 - Fading red trail for detected targets
 - Buzzer alert for nearby obstacles
 - Distance readout in centimeters
-
+## Demo
+Link: https://youtube.com/shorts/XTIOUEK2b3Q?feature=share
 ## Hardware Required
 
 - Arduino-compatible microcontroller (ESP32 or Arduino Uno compatible board)
