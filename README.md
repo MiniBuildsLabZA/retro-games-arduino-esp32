@@ -4,7 +4,6 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 
 ## 📚 Project Collection
 
-### Game Projects
 - **Arduino TFT Radar** - Ultrasonic radar simulation with an ST7735 TFT display and servo sweep (directory: `Arduino TFT Radar`)
   - 📹 Demo: https://youtube.com/shorts/XTIOUEK2b3Q?feature=share
 - **Block Breaker** - A classic block-breaking game implementation on Arduino (directory: `Block-Breaker-on-arduino`)
@@ -33,7 +32,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 - **Tic-Tac-Toe** - Interactive Tic-Tac-Toe game on Arduino UNO and TFT displays (directory: `Tic-tac-toe-uno-and-tft`)
 - **Word Scramble** - Word puzzle game (directory: `WordScramble`)
 
-### Hardware Control Projects
+## Hardware Control Projects
 - **Toggle ON/OFF Motor** - Control motor operations with toggle functionality (directory: `Toggle-ON-OFF-Motor`)
 
 ## 🛠️ Technologies & Components
