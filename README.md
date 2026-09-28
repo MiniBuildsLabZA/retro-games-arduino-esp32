@@ -33,7 +33,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 - **Word Scramble** - Word puzzle game (directory: `WordScramble`)
 
 ## Hardware Control Projects
-- **Toggle ON/OFF Motor** - Control motor operations with toggle functionality (directory: `Toggle-ON-OFF-Motor`)
+- **Toggle ON/OFF Motor** - Control motor operations with TFT Touchscreen toggle button functionality (directory: `Toggle-ON-OFF-Motor`)
 
 ## 🛠️ Technologies & Components
 
