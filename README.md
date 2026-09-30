@@ -7,6 +7,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 <table>
   <tr>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/arduino-tft-radar.jpg" alt="Arduino TFT Radar" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>📡 Arduino TFT Radar</h3>
       <p>Ultrasonic radar simulation with an ST7735 TFT display and servo sweep.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -15,6 +16,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Arduino%20TFT%20Radar">📁 Source</a> · <a href="https://youtube.com/shorts/XTIOUEK2b3Q?feature=share">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/block-breaker.jpg" alt="Block Breaker" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🧱 Block Breaker</h3>
       <p>A classic block-breaking game implementation on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -23,6 +25,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Block-Breaker-on-arduino">📁 Source</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/bounce.jpg" alt="Bounce" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🏀 Bounce</h3>
       <p>A bouncing game for Arduino with interactive controls.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -33,6 +36,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/dino-run.jpg" alt="Dino Run" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🦖 Dino Run</h3>
       <p>Chrome's famous Dinosaur runner game ported to Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -41,6 +45,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Dino_Run">📁 Source</a> · <a href="https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/flappy-bird.jpg" alt="Flappy Bird on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🐦 Flappy Bird</h3>
       <p>A Flappy Bird clone built for Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -49,6 +54,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./FlappyBirdOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/mega-man.jpg" alt="Mega Man on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🤖 Mega Man On Arduino</h3>
       <p>Mega Man-inspired action/shooter for SSD1306 OLED.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -59,6 +65,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/mario.jpg" alt="Mario on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🍄 Mario</h3>
       <p>Super Mario-inspired platformer game on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -67,6 +74,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Mario%20on%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/pac-man.jpg" alt="Pac-Man on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>👾 Pac-Man</h3>
       <p>Pac-Man game implementation on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -75,6 +83,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Pac-Man_on_arduino">📁 Source</a> · <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/pixel-soccer.jpg" alt="Pixel Soccer" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>⚽ Pixel Soccer</h3>
       <p>Soccer simulation game with pixel graphics.</p>
       <p><strong>Board:</strong> Arduino / microcontroller<br>
@@ -85,6 +94,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/pseudo-3d-racing.jpg" alt="Pseudo-3D Racing Game" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🏎️ Pseudo-3D Racing Game</h3>
       <p>A pseudo-3D racing game experience on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -93,6 +103,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Pseudo-3D%20Racing%20Game%20on%20Arduino">📁 Source</a> · <a href="https://youtu.be/6mhX6DsA06M">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/racing-esp32.jpg" alt="Racing Game on ESP32" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🏁 Racing Game on ESP32</h3>
       <p>A fast racing game built for the ESP32 platform.</p>
       <p><strong>Board:</strong> ESP32<br>
@@ -101,6 +112,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Racing%20Game%20on%20ESP32">📁 Source</a> · <a href="https://youtube.com/shorts/Xz7EnjQXIHw?feature=share">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/snake-game.jpg" alt="Snake Game" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🐍 Snake Game</h3>
       <p>Classic Snake game with OLED display support.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -111,6 +123,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/sonic-v1.jpg" alt="Sonic (v1)" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🦔 Sonic (v1)</h3>
       <p>Mini Sonic-style platformer on Arduino featuring OLED.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -119,6 +132,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./SonicOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/sonic-v2.jpg" alt="Sonic (v2)" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🦔 Sonic (v2)</h3>
       <p>Updated Sonic port with an improved version of the classic concept.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -127,6 +141,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./SonicOnArduinoVersion2">📁 Source</a> · <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=uQBOLwSgrFjfXYXB">🎥 Demo</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/tennis-game.jpg" alt="Tennis Game" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🎾 Tennis Game</h3>
       <p>Tennis simulation on OLED display.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -137,6 +152,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/tic-tac-toe.jpg" alt="Tic-Tac-Toe" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>❌ Tic-Tac-Toe</h3>
       <p>Interactive Tic-Tac-Toe game on Arduino UNO and TFT displays.</p>
       <p><strong>Board:</strong> Arduino UNO<br>
@@ -145,6 +161,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/word-scramble.jpg" alt="Word Scramble" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🔤 Word Scramble</h3>
       <p>Word puzzle game built for microcontroller play.</p>
       <p><strong>Board:</strong> Arduino / embedded board<br>
@@ -153,6 +170,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./WordScramble">📁 Source</a></p>
     </td>
     <td valign="top" width="33%" bgcolor="#f6f8fa" border="1" cellpadding="16">
+      <img src="./covers/toggle-motor.jpg" alt="Toggle ON/OFF Motor" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🔧 Toggle ON/OFF Motor</h3>
       <p>Control motor operations with TFT touchscreen toggle button functionality.</p>
       <p><strong>Board:</strong> Arduino / TFT-enabled board<br>
