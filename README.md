@@ -29,7 +29,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_BOUNCE_VIDEO_ID"><img src="./covers/bounce.jpg" alt="Bounce - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtu.be/t_ZkNgfslVo    "><img src="./covers/bounce.jpg" alt="Bounce - watch demo on YouTube" width="100%"></a>
       <h3>🏀 Bounce</h3>
       <p>A bouncing ball physics game for Arduino with interactive paddle controls.</p>
       <p><strong>Board:</strong> Arduino<br>
