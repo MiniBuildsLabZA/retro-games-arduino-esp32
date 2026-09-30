@@ -118,7 +118,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./SonicOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/6b8Iq4P6gBc?feature=share"><img src="./covers/sonic.jpg" alt="Sonic (v2) - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/6b8Iq4P6gBc?feature=share"><img src="./covers/sonicv2.jpg" alt="Sonic (v2) - watch demo on YouTube" width="100%"></a>
       <h3>🦔 Sonic (v2)</h3>
       <p>Updated Sonic port with improved mechanics and enhanced gameplay features.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
