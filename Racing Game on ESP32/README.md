@@ -1,108 +1,42 @@
 # Racing Game on ESP32
 
-A compact racing game for ESP32 and SSD1306 OLED displays. The project features a top-down race track, multiple AI cars, a finish screen, and simple button-based controls.
+![Racing Game on ESP32 Cover](../covers/esp32racinggame.jpg)
 
-## Overview
+A compact top-down racing game for ESP32 and a 128x64 SSD1306 OLED. Race around a predefined track against AI-controlled cars and view the final finishing position.
 
-This game turns a small OLED display into a miniature arcade race. The player controls a car around a pre-defined track and races against several opponents to determine the final finishing position.
+## Demo
+
+https://youtube.com/shorts/Xz7EnjQXIHw?feature=share
 
 ## Features
 
-- Top-down race track drawing
-- Multiple AI-controlled cars
+- Top-down track rendering
+- Multiple AI cars following predefined route points
 - Player position tracking
-- Starting screen and finish screen overlays
+- Start and finish overlays
 - Button-based directional controls
-- Lightweight game loop suitable for ESP32
-## Demo
-Link: https://youtube.com/shorts/Xz7EnjQXIHw?feature=share
-## Hardware Requirements
+- Lightweight ESP32 game loop
 
-- ESP32 development board
-- 128x64 SSD1306 OLED display
-- 4 push buttons
-- Breadboard and jumper wires
+## Hardware and wiring
 
-## Wiring Diagram
+| Component | Connection |
+|---|---|
+| SSD1306 SDA | GPIO 21 |
+| SSD1306 SCL | GPIO 22 |
+| OLED power | 3.3V and GND |
+| Up button | GPIO 32 |
+| Down button | GPIO 33 |
+| Left button | GPIO 25 |
+| Right button | GPIO 26 |
 
-```text
-OLED (I2C)
-----------
-SDA -> GPIO 21
-SCL -> GPIO 22
-VCC -> 3.3V
-GND -> GND
-
-Buttons
--------
-UP    -> GPIO 32
-DOWN  -> GPIO 33
-LEFT  -> GPIO 25
-RIGHT -> GPIO 26
-
-Connection style:
-- Each button should be wired to a GPIO with pull-up enabled
-- Pressing a button connects the GPIO to GND
-```
+Wire each button between its GPIO and GND, using the GPIO pull-up configuration.
 
 ## Controls
 
-Use the four directional buttons to steer the car:
-
-- Up: move car upward
-- Down: move car downward
-- Left: move car left
-- Right: move car right
-
-A press on any direction button starts the race from the title screen.
-
-## Gameplay
-
-1. The game opens on a start screen showing the race cover art.
-2. Press any direction button to begin.
-3. The player car starts at the beginning of the track.
-4. AI cars move automatically along predefined route points.
-5. The race ends when all cars have reached the finish line.
-6. A result screen shows the player's final finishing position.
-
-## Track System
-
-The game uses a set of coordinate arrays to define the road path. The AI cars follow those points and smoothly move toward the next track segment. The player is free to navigate within the playing area while the cars update each frame.
-
-## Libraries
-
-This project uses:
-
-- Adafruit_GFX
-- Adafruit_SSD1306
-- Wire
+Use the four directional buttons to steer. Press any direction button on the title screen to start the race.
 
 ## Installation
 
-1. Install the Arduino IDE or PlatformIO.
-2. Install the necessary libraries.
-3. Open the source file in this folder.
-4. Select the ESP32 board and correct serial port.
-5. Upload the project to the board.
+Install Adafruit GFX, Adafruit SSD1306, and Wire. Open the source file, select an ESP32 board and serial port, and upload. The OLED address is `0x3C`.
 
-## Notes
-
-- The display uses the SSD1306 I2C address `0x3C`.
-- The project stores bitmap graphics in program memory for efficient display updates.
-- The main loop updates gameplay and rendering at a controlled pace for ESP32 stability.
-
-## Possible Improvements
-
-- Add lap timing and countdown
-- Add sound effects and music
-- Add a menu system and difficulty options
-- Add collisions and boost pickups
-- Add a smarter AI opponent behavior system
-
-## License
-
-This project is part of the Retro Games Arduino/ESP32 collection by MiniBuildsLabZA.
-
-## Author
-
-MiniBuildsLabZA
+Possible enhancements include lap timing, difficulty settings, collisions, boost pickups, and improved AI.
