@@ -9,7 +9,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 <table>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/XTIOUEK2b3Q?feature=share"><img src="./covers/yt/arduinoradar.jpg" alt="Arduino TFT Radar - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/XTIOUEK2b3Q?feature=share"><img src="./covers/arduinoradar.jpg" alt="Arduino TFT Radar - watch demo on YouTube" width="100%"></a>
       <h3>📡 Arduino TFT Radar</h3>
       <p>Ultrasonic radar simulation with an ST7735 TFT display and servo sweep.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -38,7 +38,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Bounce_on_arduino">📁 Source</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT"><img src="./covers/yt/dinorun.jpg" alt="Dino Run - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT"><img src="./covers/dinorun.jpg" alt="Dino Run - watch demo on YouTube" width="100%"></a>
       <h3>🦖 Dino Run</h3>
       <p>Chrome's famous Dinosaur runner game ported to Arduino with obstacle avoidance.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -49,7 +49,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share"><img src="./covers/yt/flappybird.jpg" alt="Flappy Bird - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share"><img src="./covers/flappybird.jpg" alt="Flappy Bird - watch demo on YouTube" width="100%"></a>
       <h3>🐦 Flappy Bird</h3>
       <p>The classic Flappy Bird game built for Arduino with smooth animations and collision detection.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -58,7 +58,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./FlappyBirdOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR"><img src="./covers/yt/mario.jpg" alt="Mario - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR"><img src="./covers/mario.jpg" alt="Mario - watch demo on YouTube" width="100%"></a>
       <h3>🍄 Mario</h3>
       <p>Super Mario-inspired platformer game on Arduino with jumping mechanics and obstacles.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -69,7 +69,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR"><img src="./covers/yt/megaman.jpg" alt="Mega Man On Arduino - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR"><img src="./covers/megaman.jpg" alt="Mega Man On Arduino - watch demo on YouTube" width="100%"></a>
       <h3>🤖 Mega Man On Arduino</h3>
       <p>Mega Man-inspired action shooter game with sprite animations and enemy AI.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -78,7 +78,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Mega%20Man%20On%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP"><img src="./covers/yt/pacman.jpg" alt="Pac-Man - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP"><img src="./covers/pacman.jpg" alt="Pac-Man - watch demo on YouTube" width="100%"></a>
       <h3>👾 Pac-Man</h3>
       <p>Pac-Man game implementation on Arduino with maze navigation and ghost AI.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -89,7 +89,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtu.be/6mhX6DsA06M"><img src="./covers/yt/pseudo3D.jpg" alt="Pseudo-3D Racing Game - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtu.be/6mhX6DsA06M"><img src="./covers/pseudo3D.jpg" alt="Pseudo-3D Racing Game - watch demo on YouTube" width="100%"></a>
       <h3>🏎️ Pseudo-3D Racing Game</h3>
       <p>A pseudo-3D racing game with perspective rendering and AI opponent competition.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -98,7 +98,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Pseudo-3D%20Racing%20Game%20on%20Arduino">📁 Source</a> · <a href="https://youtu.be/6mhX6DsA06M">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/Xz7EnjQXIHw?feature=share"><img src="./covers/yt/esp32racinggame.jpg" alt="Racing Game on ESP32 - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/Xz7EnjQXIHw?feature=share"><img src="./covers/esp32racinggame.jpg" alt="Racing Game on ESP32 - watch demo on YouTube" width="100%"></a>
       <h3>🏁 Racing Game on ESP32</h3>
       <p>A fast top-down racing game built for the ESP32 platform with multiple AI cars.</p>
       <p><strong>Board:</strong> ESP32<br>
@@ -109,7 +109,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share"><img src="./covers/yt/sonic.jpg" alt="Sonic (v1) - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share"><img src="./covers/sonic.jpg" alt="Sonic (v1) - watch demo on YouTube" width="100%"></a>
       <h3>🦔 Sonic (v1)</h3>
       <p>Mini Sonic-style platformer on Arduino featuring sprite animations and ring collection.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -118,7 +118,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./SonicOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=uQBOLwSgrFjfXYXB"><img src="./covers/yt/sonic.jpg" alt="Sonic (v2) - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=uQBOLwSgrFjfXYXB"><img src="./covers/sonic.jpg" alt="Sonic (v2) - watch demo on YouTube" width="100%"></a>
       <h3>🦔 Sonic (v2)</h3>
       <p>Updated Sonic port with improved mechanics and enhanced gameplay features.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
