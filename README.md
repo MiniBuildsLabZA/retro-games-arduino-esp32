@@ -18,24 +18,24 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Arduino%20TFT%20Radar">📁 Source</a> · <a href="https://youtube.com/shorts/XTIOUEK2b3Q?feature=share">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="./Block-Breaker-on-arduino"><img src="./covers/blockbreaker.jpg" alt="Block Breaker" width="100%"></a>
+      <a href="https://youtube.com/shorts/REPLACE_WITH_BLOCK_BREAKER_VIDEO_ID"><img src="./covers/blockbreaker.jpg" alt="Block Breaker - watch demo on YouTube" width="100%"></a>
       <h3>🧱 Block Breaker</h3>
       <p>A classic block-breaking game implementation on Arduino with paddle controls and collision detection.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick</p>
-      <p><a href="./Block-Breaker-on-arduino">📁 Source</a></p>
+      <p><a href="./Block-Breaker-on-arduino">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_BLOCK_BREAKER_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="./Bounce_on_arduino"><img src="./covers/bounce.jpg" alt="Bounce" width="100%"></a>
+      <a href="https://youtube.com/shorts/REPLACE_WITH_BOUNCE_VIDEO_ID"><img src="./covers/bounce.jpg" alt="Bounce - watch demo on YouTube" width="100%"></a>
       <h3>🏀 Bounce</h3>
       <p>A bouncing ball physics game for Arduino with interactive paddle controls.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick Module</p>
-      <p><a href="./Bounce_on_arduino">📁 Source</a></p>
+      <p><a href="./Bounce_on_arduino">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_BOUNCE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT"><img src="./covers/dinorun.jpg" alt="Dino Run - watch demo on YouTube" width="100%"></a>
@@ -134,7 +134,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino / ESP32<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick</p>
-      <p><a href="./Snake-game-with-oled">📁 Source</a></p>
+      <p><a href="./Snake-game-with-oled">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_SNAKE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>⚽ Pixel Soccer</h3>
@@ -142,7 +142,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino / Microcontroller<br>
       <strong>Display:</strong> Pixel Screen<br>
       <strong>Gameplay:</strong> Arcade Soccer</p>
-      <p><a href="./Pixel-soccer">📁 Source</a></p>
+      <p><a href="./Pixel-soccer">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Gameplay:</strong> Arcade Tennis</p>
-      <p><a href="./TennisGameOnOLED">📁 Source</a></p>
+      <p><a href="./TennisGameOnOLED">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TENNIS_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>❌ Tic-Tac-Toe</h3>
@@ -160,7 +160,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino UNO<br>
       <strong>Display:</strong> TFT Display<br>
       <strong>Mode:</strong> Console / Game Board</p>
-      <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a></p>
+      <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TIC_TAC_TOE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino / Embedded Board<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Type:</strong> Puzzle Game</p>
-      <p><a href="./WordScramble">📁 Source</a></p>
+      <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🔧 Toggle ON/OFF Motor</h3>
@@ -178,7 +178,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino / TFT-enabled Board<br>
       <strong>Use Case:</strong> Motor Switching<br>
       <strong>Interface:</strong> Touchscreen</p>
-      <p><a href="./Toggle-ON-OFF-Motor">📁 Source</a></p>
+      <p><a href="./Toggle-ON-OFF-Motor">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TOGGLE_MOTOR_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
 </table>
