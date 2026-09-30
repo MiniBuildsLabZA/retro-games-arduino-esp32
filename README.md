@@ -1,6 +1,6 @@
 # DIY Arduino & ESP32 Projects
 
-A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and embedded systems experiments designed for learning and experimentation.
+A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control proj[...]
 
 ## 📚 Project Collection
 
@@ -36,7 +36,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Bounce_on_arduino">📁 Source</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
-      <img src="./covers/dino-run.jpg" alt="Dino Run" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
+      <img src="./covers/dinorun.jpg" alt="Dino Run" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🦖 Dino Run</h3>
       <p>Chrome's famous Dinosaur runner game ported to Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -56,7 +56,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./FlappyBirdOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share">🎥 Demo</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
-      <img src="./covers/mega-man.jpg" alt="Mega Man on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
+      <img src="./covers/megaman.jpg" alt="Mega Man on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🤖 Mega Man On Arduino</h3>
       <p>Mega Man-inspired action/shooter for SSD1306 OLED.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -76,7 +76,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Mario%20on%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR">🎥 Demo</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
-      <img src="./covers/pac-man.jpg" alt="Pac-Man on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
+      <img src="./covers/pacman.jpg" alt="Pac-Man on Arduino" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>👾 Pac-Man</h3>
       <p>Pac-Man game implementation on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -127,7 +127,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
-      <img src="./covers/sonic-v1.jpg" alt="Sonic (v1)" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
+      <img src="./covers/sonic.jpg" alt="Sonic (v1)" width="100%" style="border-radius: 10px; margin-bottom: 12px;">
       <h3>🦔 Sonic (v1)</h3>
       <p>Mini Sonic-style platformer on Arduino featuring OLED.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -225,6 +225,6 @@ If you need help with a specific project, open an issue or check the project's d
 ---
 
 **Created**: November 5, 2025  
-**Last updated**: September 26, 2026  
+**Last updated**: September 30, 2026  
 **Language**: C++  
 **License**: Open Source
