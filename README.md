@@ -32,7 +32,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>A bouncing game for Arduino with interactive controls.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> OLED / screen<br>
-      <strong>Controls:</strong> User input</p>
+      <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Bounce_on_arduino">📁 Source</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
@@ -61,7 +61,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>Mega Man-inspired action/shooter for SSD1306 OLED.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
-      <strong>Controls:</strong> Input controls</p>
+      <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Mega%20Man%20On%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR">🎥 Demo</a></p>
     </td>
   </tr>
@@ -72,7 +72,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>Super Mario-inspired platformer game on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> OLED / screen<br>
-      <strong>Controls:</strong> Joystick / buttons</p>
+      <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Mario%20on%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR">🎥 Demo</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
@@ -81,7 +81,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>Pac-Man game implementation on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> Screen<br>
-      <strong>Controls:</strong> Direction controls</p>
+      <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Pac-Man_on_arduino">📁 Source</a> · <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP">🎥 Demo</a></p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <h3>🏎️ Pseudo-3D Racing Game</h3>
       <p>A pseudo-3D racing game experience on Arduino.</p>
       <p><strong>Board:</strong> Arduino<br>
-      <strong>Display:</strong> Screen<br>
+      <strong>Display:</strong> OLED display<br>
       <strong>Style:</strong> Pseudo-3D</p>
       <p><a href="./Pseudo-3D%20Racing%20Game%20on%20Arduino">📁 Source</a> · <a href="https://youtu.be/6mhX6DsA06M">🎥 Demo</a></p>
     </td>
@@ -111,8 +111,9 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <h3>🏁 Racing Game on ESP32</h3>
       <p>A fast racing game built for the ESP32 platform.</p>
       <p><strong>Board:</strong> ESP32<br>
-      <strong>Display:</strong> Screen<br>
-      <strong>Performance:</strong> High-speed gameplay</p>
+      <strong>Display:</strong> OLED display<br>
+    <strong>Controls:</strong> Joystick Module<br
+     </p>
       <p><a href="./Racing%20Game%20on%20ESP32">📁 Source</a> · <a href="https://youtube.com/shorts/Xz7EnjQXIHw?feature=share">🎥 Demo</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa" border="1" cellpadding="16">
@@ -121,7 +122,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>Classic Snake game with OLED display support.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
       <strong>Display:</strong> OLED<br>
-      <strong>Controls:</strong> Direction input</p>
+      <strong>Controls:</strong> Joystick </p>
       <p><a href="./Snake-game-with-oled">📁 Source</a></p>
     </td>
   </tr>
@@ -141,7 +142,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>Updated Sonic port with an improved version of the classic concept.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> OLED / screen<br>
-      <strong>Version:</strong> Improved build</p>
+      <strong>Controls:</strong> Joystick </p>
       <p><a href="./SonicOnArduinoVersion2">📁 Source</a> · <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=uQBOLwSgrFjfXYXB">🎥 Demo</a></p>
     </td>
   </tr>
