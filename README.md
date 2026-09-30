@@ -18,13 +18,13 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Arduino%20TFT%20Radar">📁 Source</a> · <a href="https://youtube.com/shorts/XTIOUEK2b3Q?feature=share">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_BLOCK_BREAKER_VIDEO_ID"><img src="./covers/blockbreaker.jpg" alt="Block Breaker - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtu.be/GAzgyI9GhFs"><img src="./covers/blockbreaker.jpg" alt="Block Breaker - watch demo on YouTube" width="100%"></a>
       <h3>🧱 Block Breaker</h3>
       <p>A classic block-breaking game implementation on Arduino with paddle controls and collision detection.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick</p>
-      <p><a href="./Block-Breaker-on-arduino">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_BLOCK_BREAKER_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./Block-Breaker-on-arduino">📁 Source</a> · <a href="https://youtu.be/GAzgyI9GhFs">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick Module</p>
-      <p><a href="./Bounce_on_arduino">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_BOUNCE_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./Bounce_on_arduino">📁 Source</a> · <a href="https://youtu.be/t_ZkNgfslVo">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT"><img src="./covers/dinorun.jpg" alt="Dino Run - watch demo on YouTube" width="100%"></a>
