@@ -10,6 +10,8 @@ https://youtube.com/shorts/XYnEovBdsMg?feature=share
 
 ## Hardware
 
+[Flappy Bird Wiring Diagram]
+
 - Arduino Uno, Nano, or compatible board
 - SSD1306 128x64 I2C OLED
 - Push button on pin 4
@@ -19,13 +21,6 @@ https://youtube.com/shorts/XYnEovBdsMg?feature=share
 
 Press the button to flap upward and release it to fall. Avoid the pipes, score by passing them, and press the button to restart after game over.
 
-## Features
+## Source
 
-- Three-frame flapping and falling animations
-- Four simultaneous pipes with variable gaps
-- Oscillating pipe movement and dynamic spacing
-- AABB collision detection
-- Score beep and score display
-- Parallax background and game-over screen
-
-Install Adafruit GFX and Adafruit SSD1306 through the Arduino IDE Library Manager, open `SourceCode`, select the board and port, and upload the sketch. The default display address is `0x3C`.
+Open [`SourceCode`](./SourceCode), install Adafruit GFX and Adafruit SSD1306, select the board and port, and upload. The default display address is `0x3C`.

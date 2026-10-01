@@ -16,7 +16,9 @@ https://youtube.com/shorts/XTIOUEK2b3Q?feature=share
 - Distance readout in centimeters
 - Buzzer alert for nearby objects
 
-## Hardware and pins
+## Hardware and wiring
+
+[Arduino TFT Radar Wiring Diagram]
 
 | Component | Pin |
 |---|---|
@@ -27,10 +29,6 @@ https://youtube.com/shorts/XTIOUEK2b3Q?feature=share
 
 Connect the display, sensor, servo, and buzzer to the appropriate power and ground pins. Install `Adafruit_GFX`, `Adafruit_ST7735`, and `Servo` from the Arduino Library Manager.
 
-## How it works
+## Source
 
-The sensor measures distance at each servo angle. Valid measurements are projected onto the radar display and retained briefly as a fading trail. Open `Source Code`, select the board and port, then upload the sketch.
-
-## Notes
-
-The plotted range is configured for 10 cm. If no echo is received, the display shows `--`. Ensure the servo has an adequate power supply.
+Open the source sketch in this directory, select the board and port, and upload it.

@@ -10,8 +10,10 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 
 ## Hardware
 
+[Dino Run Wiring Diagram]
+
 - Arduino or ESP32
-- 128x64 SSD1306 OLED display
+- 128x64 SSD1306 OLED
 - Two-axis analog joystick
 - Buzzer
 
@@ -24,14 +26,6 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 | Jump | Joystick Y > 600 |
 | Start | Move joystick left or right |
 
-## Features
-
-- Physics-based movement with gravity and jumping
-- Three obstacle types and moving cars
-- Dinosaur animation frames and background sprites
-- Collision detection and game-over handling
-- Score tracking and audio feedback
-
 ## Wiring
 
 | Component | Pin |
@@ -42,11 +36,6 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 | Joystick Y | A1 |
 | Buzzer | 3 |
 
-## Dependencies
+## Source
 
-- `Adafruit_GFX.h`
-- `Adafruit_SSD1306.h`
-
-Install the libraries through the Arduino IDE Library Manager, open the source file, select your board, and upload the sketch.
-
-Created as part of the DIY Arduino/ESP32 Projects collection. 🦖
+Open the source sketch in this directory, install Adafruit GFX and Adafruit SSD1306, select your board and port, and upload.
