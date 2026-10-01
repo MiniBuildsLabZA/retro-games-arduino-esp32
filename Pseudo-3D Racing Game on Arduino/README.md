@@ -24,7 +24,7 @@ https://youtu.be/6mhX6DsA06M
 
 ## Wiring
 
-![Pseudo-3D Racing Game Wiring Diagram](../wiring/pseudo3dracingwiring.jpg)
+![Pseudo-3D Racing Game Wiring Diagram](../wiring/wiring1.jpg)
 
 | Component | Pin |
 |---|---|
