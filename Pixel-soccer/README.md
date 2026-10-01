@@ -1,10 +1,10 @@
 # Pixel Soccer
 
+![Pixel Soccer Cover](../covers/pixelsoccer.jpg)
+
 A pixel-art soccer simulation with arcade-style gameplay for a microcontroller.
 
 ## Hardware
-
-[Pixel Soccer Wiring Diagram]
 
 - Arduino-compatible board or microcontroller
 - Display used by the sketch
@@ -12,6 +12,8 @@ A pixel-art soccer simulation with arcade-style gameplay for a microcontroller.
 - Optional buzzer
 
 ## Wiring
+
+![Pixel Soccer Wiring Diagram](../wiring/pixelsoccerwiring.jpg)
 
 Connect the display and controls according to the pin definitions in `Source-code`. Provide shared power and ground, and verify the display interface before uploading.
 

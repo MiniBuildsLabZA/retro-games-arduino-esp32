@@ -10,8 +10,6 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 
 ## Hardware
 
-![Dino Run Wiring Diagram](../wiring/dinowiring.jpg)
-
 - Arduino or ESP32
 - 128x64 SSD1306 OLED
 - Two-axis analog joystick
@@ -27,6 +25,8 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 | Start | Move joystick left or right |
 
 ## Wiring
+
+![Dino Run Wiring Diagram](../wiring/dinowiring.jpg)
 
 | Component | Pin |
 |---|---|

@@ -6,14 +6,14 @@ A bouncing-ball physics game for Arduino with an SSD1306 OLED and interactive pa
 
 ## Hardware
 
-[Bounce Wiring Diagram]
-
 - Arduino-compatible board
 - SSD1306 128x64 I2C OLED
 - Analog joystick module
 - Optional buzzer, if enabled by the sketch
 
 ## Wiring
+
+![Bounce Wiring Diagram](../wiring/bouncewiring.jpg)
 
 Connect the OLED to the board's I2C SDA/SCL pins. Connect the joystick axes to the analog inputs defined in `source_code`, then connect power and ground.
 

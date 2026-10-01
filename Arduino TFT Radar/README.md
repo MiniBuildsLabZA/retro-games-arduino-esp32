@@ -16,9 +16,17 @@ https://youtube.com/shorts/XTIOUEK2b3Q?feature=share
 - Distance readout in centimeters
 - Buzzer alert for nearby objects
 
-## Hardware and wiring
+## Hardware
 
-[Arduino TFT Radar Wiring Diagram]
+- Arduino-compatible board
+- HC-SR04 ultrasonic sensor
+- SG90 servo motor
+- ST7735 TFT display
+- Passive buzzer
+
+## Wiring
+
+![Arduino TFT Radar Wiring Diagram](../wiring/arduinoradarwiring.jpg)
 
 | Component | Pin |
 |---|---|

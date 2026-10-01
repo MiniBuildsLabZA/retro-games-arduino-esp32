@@ -1,10 +1,10 @@
 # Snake Game with OLED
 
-A classic Snake game with OLED display support and joystick controls.
+![Snake Game Cover](../covers/snake.jpg)
+
+A classic Snake game for Arduino/ESP32 with SSD1306 OLED display support and joystick controls.
 
 ## Hardware
-
-[Snake Game Wiring Diagram]
 
 - Arduino-compatible board or ESP32
 - SSD1306 128x64 I2C OLED
@@ -13,7 +13,15 @@ A classic Snake game with OLED display support and joystick controls.
 
 ## Wiring
 
-Connect the OLED to the board's I2C SDA/SCL pins and the joystick axes to the analog inputs defined in `Source-code`. Connect all modules to the appropriate power and ground pins.
+![Snake Game Wiring Diagram](../wiring/snakewiring.jpg)
+
+| Component | Pin |
+|---|---|
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Joystick X | A0 |
+| Joystick Y | A1 |
+| Buzzer (optional) | 3 |
 
 ## Source
 

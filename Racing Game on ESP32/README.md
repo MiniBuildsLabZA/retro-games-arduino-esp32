@@ -4,9 +4,19 @@
 
 A compact top-down racing game for ESP32 and a 128x64 SSD1306 OLED. Race around a predefined track against AI-controlled cars and view the final finishing position.
 
-## Hardware and wiring
+## Demo
 
-[Racing Game on ESP32 Wiring Diagram]
+https://youtube.com/shorts/Xz7EnjQXIHw?feature=share
+
+## Hardware
+
+- ESP32 board
+- SSD1306 128x64 I2C OLED
+- Four directional buttons
+
+## Wiring
+
+![Racing Game on ESP32 Wiring Diagram](../wiring/esp32racinggamewiring.jpg)
 
 | Component | Connection |
 |---|---|

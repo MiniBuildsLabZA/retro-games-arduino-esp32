@@ -10,14 +10,23 @@ https://youtube.com/shorts/XYnEovBdsMg?feature=share
 
 ## Hardware
 
-[Flappy Bird Wiring Diagram]
-
 - Arduino Uno, Nano, or compatible board
 - SSD1306 128x64 I2C OLED
-- Push button on pin 4
-- Optional passive buzzer on pin 3
+- Push button
+- Optional passive buzzer
 
-## How to play
+## Wiring
+
+![Flappy Bird Wiring Diagram](../wiring/flappybirdwiring.jpg)
+
+| Component | Pin |
+|---|---|
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Button | 4 |
+| Buzzer | 3 |
+
+## How to Play
 
 Press the button to flap upward and release it to fall. Avoid the pipes, score by passing them, and press the button to restart after game over.
 

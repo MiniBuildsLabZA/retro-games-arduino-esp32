@@ -1,10 +1,10 @@
 # Tic-Tac-Toe on Arduino UNO and TFT
 
+![Tic-Tac-Toe Cover](../covers/tictactoe.jpg)
+
 An interactive Tic-Tac-Toe game for Arduino UNO with TFT display support.
 
 ## Hardware
-
-[Tic-Tac-Toe Wiring Diagram]
 
 - Arduino UNO
 - TFT display
@@ -12,6 +12,8 @@ An interactive Tic-Tac-Toe game for Arduino UNO with TFT display support.
 - Jumper wires and suitable power connections
 
 ## Wiring
+
+![Tic-Tac-Toe Wiring Diagram](../wiring/tictactoewiring.jpg)
 
 Connect the TFT display and input controls according to the pin definitions in `Tic tac toe Source code`. Confirm the display power, ground, and interface pins before powering the circuit.
 

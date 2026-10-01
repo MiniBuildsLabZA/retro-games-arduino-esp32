@@ -1,19 +1,22 @@
 # Toggle ON/OFF Motor
 
+![Toggle Motor Cover](../covers/togglemotor.jpg)
+
 A touchscreen toggle project for controlling a motor with an Arduino and TFT-enabled interface.
 
 ## Hardware
 
-[Toggle ON/OFF Motor Wiring Diagram]
-
 - Arduino-compatible TFT-enabled board
 - TFT touchscreen
-- Motor and suitable external motor power supply
-- Transistor or motor driver and flyback diode where required
+- Motor
+- Transistor or motor driver and flyback diode
+- External motor power supply
 
 ## Wiring
 
-Use the existing [`toggle_wiring_diagram.PNG`](./toggle_wiring_diagram.PNG) as the wiring reference. Do not power a motor directly from an Arduino GPIO; use an appropriately rated driver circuit and common ground.
+![Toggle ON/OFF Motor Wiring Diagram](../wiring/toggle_wiring_diagram.jpg)
+
+See the wiring reference diagram above. Do not power a motor directly from an Arduino GPIO; use an appropriately rated driver circuit and common ground.
 
 ## Source
 

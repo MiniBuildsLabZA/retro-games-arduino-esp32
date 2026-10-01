@@ -10,13 +10,24 @@ https://youtube.com/shorts/8RqrcE4Sohk?feature=share
 
 ## Hardware
 
-[Sonic v1 Wiring Diagram]
-
 - Arduino Uno/Nano or ESP32
 - SSD1306 128x64 I2C OLED
-- Buzzer on pin 3
-- Button on pin 4
-- Optional joystick or potentiometers on A0/A1
+- Buzzer
+- Button
+- Optional joystick or potentiometers
+
+## Wiring
+
+![Sonic v1 Wiring Diagram](../wiring/sonicv1wiring.jpg)
+
+| Component | Pin |
+|---|---|
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Buzzer | 3 |
+| Button | 4 |
+| Joystick X (optional) | A0 |
+| Joystick Y (optional) | A1 |
 
 ## Source
 

@@ -1,10 +1,10 @@
 # Word Scramble
 
+![Word Scramble Cover](../covers/wordscramble.jpg)
+
 A word puzzle game for a microcontroller that challenges the player to unscramble letters.
 
 ## Hardware
-
-[Word Scramble Wiring Diagram]
 
 - Arduino-compatible or embedded board
 - SSD1306 OLED display
@@ -13,7 +13,14 @@ A word puzzle game for a microcontroller that challenges the player to unscrambl
 
 ## Wiring
 
-Connect the OLED to the board's I2C pins and connect the input controls to the pins defined in `Source-code`. Use shared power and ground.
+![Word Scramble Wiring Diagram](../wiring/wordscramblewiring.jpg)
+
+| Component | Pin |
+|---|---|
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Input controls | As defined in sketch |
+| Buzzer (optional) | 3 |
 
 ## Source
 

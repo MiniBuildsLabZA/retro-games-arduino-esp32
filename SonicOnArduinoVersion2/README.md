@@ -1,12 +1,14 @@
 # SonicOnArduino Version 2
 
-![Sonic Cover](../covers/sonicv2.jpg)
+![Sonic v2 Cover](../covers/sonicv2.jpg)
 
 An upgraded Sonic-style game for Arduino/ESP32 and an SSD1306 128x64 OLED. Version 2 adds new sprites, boss animations, hitboxes, rings, health, and level elements.
 
-## Hardware
+## Demo
 
-[Sonic v2 Wiring Diagram]
+https://youtube.com/shorts/6b8Iq4P6gBc?feature=share
+
+## Hardware
 
 - ESP32 or Arduino
 - SSD1306 128x64 I2C OLED
@@ -14,7 +16,20 @@ An upgraded Sonic-style game for Arduino/ESP32 and an SSD1306 128x64 OLED. Versi
 - Momentary button
 - Two-axis analog joystick
 
-Typical connections use board I2C pins, buzzer pin 3, button pin 4, and analog inputs A0/A1. Remap these pins when required by your board; ESP32 users should select ADC-capable pins.
+## Wiring
+
+![Sonic v2 Wiring Diagram](../wiring/sonicv2wiring.jpg)
+
+| Component | Pin |
+|---|---|
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Buzzer | 3 |
+| Button | 4 |
+| Joystick X | A0 |
+| Joystick Y | A1 |
+
+Remap these pins when required by your board; ESP32 users should select ADC-capable pins.
 
 ## Source
 

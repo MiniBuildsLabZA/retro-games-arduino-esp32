@@ -4,14 +4,28 @@
 
 A classic Pac-Man game for Arduino/ESP32 with a 128x64 SSD1306 OLED, joystick input, maze nodes, pellets, animated sprites, ghosts, and buzzer sounds.
 
-## Hardware
+## Demo
 
-[Pac-Man Wiring Diagram]
+https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP
+
+## Hardware
 
 - Arduino-compatible board or ESP32
 - SSD1306 128x64 I2C OLED
-- Analog joystick on A0/A1
-- Buzzer on pin 2
+- Analog joystick
+- Buzzer
+
+## Wiring
+
+![Pac-Man Wiring Diagram](../wiring/pacmanwiring.jpg)
+
+| Component | Pin |
+|---|---|
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Joystick X | A0 |
+| Joystick Y | A1 |
+| Buzzer | 2 |
 
 ## Source
 

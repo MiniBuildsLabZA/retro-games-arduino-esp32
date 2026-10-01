@@ -6,8 +6,6 @@ A classic block-breaking game for Arduino with an SSD1306 OLED, joystick paddle 
 
 ## Hardware
 
-[Block Breaker Wiring Diagram]
-
 - Arduino-compatible board
 - SSD1306 128x64 I2C OLED
 - Analog joystick module
@@ -15,7 +13,9 @@ A classic block-breaking game for Arduino with an SSD1306 OLED, joystick paddle 
 
 ## Wiring
 
-Use the board's I2C pins for the OLED. Connect the joystick X and Y outputs to the analog inputs used in `Source-code`; connect power and ground to the corresponding board pins.
+![Block Breaker Wiring Diagram](../wiring/blockbreakerwiring.jpg)
+
+Connect the OLED to the board's I2C SDA/SCL pins. Connect the joystick X and Y outputs to the analog inputs used in `Source-code`; connect power and ground to the corresponding board pins.
 
 ## Source
 

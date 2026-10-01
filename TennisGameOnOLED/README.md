@@ -1,10 +1,10 @@
 # Tennis Game on OLED
 
+![Tennis Game Cover](../covers/tennis.jpg)
+
 A tennis simulation for an OLED display with arcade-style gameplay and support for single-player or two-player controls.
 
 ## Hardware
-
-[Tennis Game Wiring Diagram]
 
 - Arduino-compatible board
 - SSD1306 128x64 I2C OLED
@@ -13,7 +13,9 @@ A tennis simulation for an OLED display with arcade-style gameplay and support f
 
 ## Wiring
 
-Connect the OLED to the board's I2C pins. Connect each controller to the input pins defined in `Source code`, with shared power and ground.
+![Tennis Game Wiring Diagram](../wiring/tenniswiring.jpg)
+
+Connect the OLED to the board's I2C pins (SDA/SCL). Connect each controller to the input pins defined in `Source code`, with shared power and ground.
 
 ## Source
 

@@ -10,21 +10,22 @@ https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR
 
 ## Hardware
 
-[Mario Wiring Diagram]
-
 - Arduino or ESP32
 - Adafruit SSD1306 128x64 OLED
-- Analog joystick on A0/A1
-- Buzzer on digital pin 3
+- Analog joystick
+- Buzzer
 
 ## Wiring
 
-```text
-Joystick X -> A0
-Joystick Y -> A1
-OLED SDA/SCL -> board I2C pins
-Buzzer signal -> Digital pin 3
-```
+![Mario Wiring Diagram](../wiring/mariowiring.jpg)
+
+| Component | Pin |
+|---|---|
+| Joystick X | A0 |
+| Joystick Y | A1 |
+| OLED SDA | board SDA |
+| OLED SCL | board SCL |
+| Buzzer signal | 3 |
 
 ## Source
 
