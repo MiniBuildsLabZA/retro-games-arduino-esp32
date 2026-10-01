@@ -17,7 +17,7 @@ https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR
 
 ## Wiring
 
-![Mario Wiring Diagram](../wiring/mariowiring.jpg)
+![Mario Wiring Diagram](../wiring/wiring1.jpg)
 
 | Component | Pin |
 |---|---|
