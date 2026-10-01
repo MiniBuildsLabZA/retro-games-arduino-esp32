@@ -26,7 +26,7 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 
 ## Wiring
 
-![Dino Run Wiring Diagram](../wiring/dinowiring.jpg)
+![Dino Run Wiring Diagram](../wiring/wiring1.jpg)
 
 | Component | Pin |
 |---|---|
