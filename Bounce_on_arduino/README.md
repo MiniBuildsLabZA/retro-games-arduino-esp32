@@ -1,6 +1,6 @@
 # Bounce on Arduino
 
-![Bounce Cover](../covers/bounce.jpg)
+[![Bounce Cover](../covers/bounce.jpg)](https://youtu.be/t_ZkNgfslVo)
 
 A bouncing-ball physics game for Arduino with an SSD1306 OLED and interactive paddle controls.
 

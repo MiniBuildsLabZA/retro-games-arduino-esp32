@@ -1,6 +1,6 @@
 # SonicOnArduino
 
-![Sonic Cover](../covers/sonic.jpg)
+[![Sonic Cover](../covers/sonic.jpg)](https://youtube.com/shorts/8RqrcE4Sohk?feature=share)
 
 A Sonic-style side-scrolling game for Arduino/ESP32 using an SSD1306 128x64 OLED. It includes sprite animations, ring collection, enemies, trees, a boss, scoring, and buzzer sounds.
 

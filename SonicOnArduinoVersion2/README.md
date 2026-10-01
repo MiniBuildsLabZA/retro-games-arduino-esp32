@@ -1,6 +1,6 @@
 # SonicOnArduino Version 2
 
-![Sonic v2 Cover](../covers/sonicv2.jpg)
+[![Sonic v2 Cover](../covers/sonicv2.jpg)](https://youtube.com/shorts/6b8Iq4P6gBc?feature=share)
 
 An upgraded Sonic-style game for Arduino/ESP32 and an SSD1306 128x64 OLED. Version 2 adds new sprites, boss animations, hitboxes, rings, health, and level elements.
 

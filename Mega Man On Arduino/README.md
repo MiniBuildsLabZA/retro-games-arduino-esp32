@@ -1,6 +1,6 @@
 # Mega Man On Arduino
 
-![Mega Man Cover](../covers/megaman.jpg)
+[![Mega Man Cover](../covers/megaman.jpg)](https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR)
 
 A Mega Man-inspired platformer/shooter for Arduino/ESP32 with an SSD1306 128x64 OLED, animated sprites, enemy patterns, projectiles, hitboxes, score, lives, and buzzer effects.
 

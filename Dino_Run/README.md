@@ -1,6 +1,6 @@
 # Dino Run Game
 
-![Dino Run Cover](../covers/dinorun.jpg)
+[![Dino Run Cover](../covers/dinorun.jpg)](https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT)
 
 A dinosaur-themed endless runner for Arduino/ESP32 with an SSD1306 OLED, joystick controls, obstacle avoidance, collision detection, scoring, and sound effects.
 

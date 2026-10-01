@@ -1,6 +1,6 @@
 # Arduino TFT Radar
 
-![Arduino TFT Radar Cover](../covers/arduinoradar.jpg)
+[![Arduino TFT Radar Cover](../covers/arduinoradar.jpg)](https://youtube.com/shorts/XTIOUEK2b3Q?feature=share)
 
 A compact ultrasonic radar project using an Arduino-compatible board, an HC-SR04 sensor, an SG90 servo, an ST7735 TFT display, and a buzzer.
 

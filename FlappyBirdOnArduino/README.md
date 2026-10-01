@@ -1,6 +1,6 @@
 # Flappy Bird on Arduino
 
-![Flappy Bird Cover](../covers/flappybird.jpg)
+[![Flappy Bird Cover](../covers/flappybird.jpg)](https://youtube.com/shorts/XYnEovBdsMg?feature=share)
 
 A Flappy Bird-style game for Arduino with an SSD1306 128x64 OLED, button control, scrolling backgrounds, animated birds, pipes, scoring, and collision detection.
 

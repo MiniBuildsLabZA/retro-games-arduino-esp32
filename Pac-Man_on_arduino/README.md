@@ -1,6 +1,6 @@
 # Pac-Man on Arduino
 
-![Pac-Man Cover](../covers/pacman.jpg)
+[![Pac-Man Cover](../covers/pacman.jpg)](https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP)
 
 A classic Pac-Man game for Arduino/ESP32 with a 128x64 SSD1306 OLED, joystick input, maze nodes, pellets, animated sprites, ghosts, and buzzer sounds.
 

@@ -1,6 +1,6 @@
 # Pseudo-3D Racing Game on Arduino
 
-![Pseudo-3D Racing Cover](../covers/pseudo3D.jpg)
+[![Pseudo-3D Racing Cover](../covers/pseudo3D.jpg)](https://youtu.be/6mhX6DsA06M)
 
 A retro-style pseudo-3D racing game for Arduino/ESP32 with perspective road rendering, a player car, an AI opponent, animated sprites, countdown audio, and race results.
 

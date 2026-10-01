@@ -1,6 +1,6 @@
 # Racing Game on ESP32
 
-![Racing Game on ESP32 Cover](../covers/esp32racinggame.jpg)
+[![Racing Game on ESP32 Cover](../covers/esp32racinggame.jpg)](https://youtube.com/shorts/Xz7EnjQXIHw?feature=share)
 
 A compact top-down racing game for ESP32 and a 128x64 SSD1306 OLED. Race around a predefined track against AI-controlled cars and view the final finishing position.
 

@@ -1,6 +1,6 @@
 # Block Breaker on Arduino
 
-![Block Breaker Cover](../covers/blockbreaker.jpg)
+[![Block Breaker Cover](../covers/blockbreaker.jpg)](https://youtu.be/GAzgyI9GhFs)
 
 A classic block-breaking game for Arduino with an SSD1306 OLED, joystick paddle controls, collision detection, and score tracking.
 

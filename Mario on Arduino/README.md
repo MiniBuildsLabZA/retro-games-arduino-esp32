@@ -1,6 +1,6 @@
 # Mario on Arduino 🎮
 
-![Mario Cover](../covers/mario.jpg)
+[![Mario Cover](../covers/mario.jpg)](https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR)
 
 A Super Mario-style platformer for Arduino/ESP32 with an SSD1306 OLED, joystick controls, physics, enemies, collectibles, and sound effects.
 
