@@ -17,7 +17,7 @@ https://youtube.com/shorts/XYnEovBdsMg?feature=share
 
 ## Wiring
 
-![Flappy Bird Wiring Diagram](../wiring/flappybirdwiring.jpg)
+![Flappy Bird Wiring Diagram](../wiring/wiring3.jpg)
 
 | Component | Pin |
 |---|---|
