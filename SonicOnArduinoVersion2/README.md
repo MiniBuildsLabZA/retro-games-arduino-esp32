@@ -24,8 +24,7 @@ https://youtube.com/shorts/6b8Iq4P6gBc?feature=share
 |---|---|
 | OLED SDA | board SDA |
 | OLED SCL | board SCL |
-| Buzzer | 3 |
-| Button | 4 |
+| Buzzer | 2 |
 | Joystick X | A0 |
 | Joystick Y | A1 |
 
