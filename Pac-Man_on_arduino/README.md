@@ -17,7 +17,7 @@ https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP
 
 ## Wiring
 
-![Pac-Man Wiring Diagram](../wiring/wiring4.jpg)
+![Pac-Man Wiring Diagram](../wiring/wiring3.jpg)
 
 | Component | Pin |
 |---|---|
