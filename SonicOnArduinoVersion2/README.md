@@ -18,7 +18,7 @@ https://youtube.com/shorts/6b8Iq4P6gBc?feature=share
 
 ## Wiring
 
-![Sonic v2 Wiring Diagram](../wiring/sonicv2wiring.jpg)
+![Sonic v2 Wiring Diagram](../wiring/wiring1.jpg)
 
 | Component | Pin |
 |---|---|
