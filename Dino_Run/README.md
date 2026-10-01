@@ -34,7 +34,7 @@ https://youtube.com/shorts/9tusvMqC588?si=9XAGFWza56ogSxFT
 | OLED SCL | A5 or board SCL |
 | Joystick X | A0 |
 | Joystick Y | A1 |
-| Buzzer | 3 |
+| Buzzer | 2 |
 
 ## Source
 
