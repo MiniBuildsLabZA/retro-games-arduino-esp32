@@ -49,6 +49,15 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
+      <a href="https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL"><img src="./covers/diyXiaoConsole.jpg" alt="DIY Console Open World Game - watch demo on YouTube" width="100%"></a>
+      <h3>🕹️ DIY Console Open World Game</h3>
+      <p>Open-world action adventure for ESP32-S3 with sword combat, enemies, scrolling world, and DIY handheld controls.</p>
+      <p><strong>Board:</strong> ESP32-S3<br>
+      <strong>Display:</strong> TFT<br>
+      <strong>Controls:</strong> Joystick + Buttons</p>
+      <p><a href="./OpenWorldGameOnESP32S3">📁 Source</a> · <a href="https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL">▶️ Watch on YouTube</a></p>
+    </td>
+    <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share"><img src="./covers/flappybird.jpg" alt="Flappy Bird - watch demo on YouTube" width="100%"></a>
       <h3>🐦 Flappy Bird</h3>
       <p>The classic Flappy Bird game built for Arduino with smooth animations and collision detection.</p>
@@ -57,6 +66,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Controls:</strong> Button / Input</p>
       <p><a href="./FlappyBirdOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/XYnEovBdsMg?feature=share">▶️ Watch on YouTube</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR"><img src="./covers/mario.jpg" alt="Mario - watch demo on YouTube" width="100%"></a>
       <h3>🍄 Mario</h3>
@@ -66,8 +77,6 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Mario%20on%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/EBJ509lZZzw?si=qdLsbm_wCAou-vTR">▶️ Watch on YouTube</a></p>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR"><img src="./covers/megaman.jpg" alt="Mega Man On Arduino - watch demo on YouTube" width="100%"></a>
       <h3>🤖 Mega Man On Arduino</h3>
@@ -77,6 +86,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Mega%20Man%20On%20Arduino">📁 Source</a> · <a href="https://youtube.com/shorts/n5QhOsj3owc?si=HiZ63yME2TeshqBR">▶️ Watch on YouTube</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP"><img src="./covers/pacman.jpg" alt="Pac-Man - watch demo on YouTube" width="100%"></a>
       <h3>👾 Pac-Man</h3>
@@ -85,6 +96,14 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick Module</p>
       <p><a href="./Pac-Man_on_arduino">📁 Source</a> · <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP">▶️ Watch on YouTube</a></p>
+    </td>
+    <td valign="top" width="48%" bgcolor="#f6f8fa">
+      <h3>⚽ Pixel Soccer</h3>
+      <p>Soccer simulation game with pixel graphics and arcade-style gameplay.</p>
+      <p><strong>Board:</strong> Arduino / Microcontroller<br>
+      <strong>Display:</strong> Pixel Screen<br>
+      <strong>Gameplay:</strong> Arcade Soccer</p>
+      <p><a href="./Pixel-soccer">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
@@ -109,6 +128,14 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
+      <h3>🐍 Snake Game</h3>
+      <p>Classic Snake game with OLED display support and smooth controls.</p>
+      <p><strong>Board:</strong> Arduino / ESP32<br>
+      <strong>Display:</strong> SSD1306 OLED<br>
+      <strong>Controls:</strong> Joystick</p>
+      <p><a href="./Snake-game-with-oled">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_SNAKE_VIDEO_ID">▶️ Watch on YouTube</a></p>
+    </td>
+    <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share"><img src="./covers/sonic.jpg" alt="Sonic (v1) - watch demo on YouTube" width="100%"></a>
       <h3>🦔 Sonic (v1)</h3>
       <p>Mini Sonic-style platformer on Arduino featuring sprite animations and ring collection.</p>
@@ -117,6 +144,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Genre:</strong> Side-Scrolling Platformer</p>
       <p><a href="./SonicOnArduino">📁 Source</a> · <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share">▶️ Watch on YouTube</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/6b8Iq4P6gBc?feature=share"><img src="./covers/sonicv2.jpg" alt="Sonic (v2) - watch demo on YouTube" width="100%"></a>
       <h3>🦔 Sonic (v2)</h3>
@@ -125,35 +154,6 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick</p>
       <p><a href="./SonicOnArduinoVersion2">📁 Source</a> · <a href="https://youtube.com/shorts/6b8Iq4P6gBc?feature=share">▶️ Watch on YouTube</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL"><img src="./covers/diyXiaoConsole.jpg" alt="DIY Console Open World Game - watch demo on YouTube" width="100%"></a>
-      <h3>🕹️ DIY Console Open World Game</h3>
-      <p>Open-world action adventure for ESP32-S3 with sword combat, enemies, scrolling world, and DIY handheld controls.</p>
-      <p><strong>Board:</strong> ESP32-S3<br>
-      <strong>Display:</strong> TFT<br>
-      <strong>Controls:</strong> Joystick + Buttons</p>
-      <p><a href="./OpenWorldGameOnESP32S3">📁 Source</a> · <a href="https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL">▶️ Watch on YouTube</a></p>
-    </td>
-    <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <h3>🐍 Snake Game</h3>
-      <p>Classic Snake game with OLED display support and smooth controls.</p>
-      <p><strong>Board:</strong> Arduino / ESP32<br>
-      <strong>Display:</strong> SSD1306 OLED<br>
-      <strong>Controls:</strong> Joystick</p>
-      <p><a href="./Snake-game-with-oled">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_SNAKE_VIDEO_ID">▶️ Watch on YouTube</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <h3>⚽ Pixel Soccer</h3>
-      <p>Soccer simulation game with pixel graphics and arcade-style gameplay.</p>
-      <p><strong>Board:</strong> Arduino / Microcontroller<br>
-      <strong>Display:</strong> Pixel Screen<br>
-      <strong>Gameplay:</strong> Arcade Soccer</p>
-      <p><a href="./Pixel-soccer">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🎾 Tennis Game</h3>
@@ -174,22 +174,22 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TIC_TAC_TOE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <h3>🔤 Word Scramble</h3>
-      <p>Word puzzle game built for microcontroller play with letter scrambling.</p>
-      <p><strong>Board:</strong> Arduino / Embedded Board<br>
-      <strong>Display:</strong> SSD1306 OLED<br>
-      <strong>Type:</strong> Puzzle Game</p>
-      <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🔧 Toggle ON/OFF Motor</h3>
       <p>Control motor operations with TFT touchscreen toggle button functionality.</p>
       <p><strong>Board:</strong> Arduino / TFT-enabled Board<br>
       <strong>Use Case:</strong> Motor Switching<br>
       <strong>Interface:</strong> Touchscreen</p>
       <p><a href="./Toggle-ON-OFF-Motor">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TOGGLE_MOTOR_VIDEO_ID">▶️ Watch on YouTube</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="48%" bgcolor="#f6f8fa">
+      <h3>🔤 Word Scramble</h3>
+      <p>Word puzzle game built for microcontroller play with letter scrambling.</p>
+      <p><strong>Board:</strong> Arduino / Embedded Board<br>
+      <strong>Display:</strong> SSD1306 OLED<br>
+      <strong>Type:</strong> Puzzle Game</p>
+      <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🧩 More Projects</h3>
