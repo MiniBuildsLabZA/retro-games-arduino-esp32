@@ -95,12 +95,9 @@ Open [`cow_boy.ino`](./cow_boy.ino) in the Arduino IDE or PlatformIO project env
 
 The project uses sprite data and generated sound effect tables embedded in the source project files. Adjust pin mappings to suit your DIY console layout if necessary.
 
+Please note the project is still under development, it is only a prototype. Please feel free to contact us for collaboration, refining firmware or even for commercial use. 
+
 ---
-
-## 📂 Source Code (Open Source)
-
-https://github.com/MiniBuildsLabZA/retro-games-arduino-esp32
-
 ## 🛒 Get the Hardware
 
 **Get the XIAO ESP32-S3:**
@@ -121,4 +118,4 @@ This project is open source. Please refer to the LICENSE file in the repository 
 
 ## 💬 Questions?
 
-Drop your questions in the comments section below or open an issue on GitHub!
+Open an issue on GitHub!
