@@ -129,13 +129,13 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_VIDEO_ID"><img src="./covers/diyXiaoConsole.jpg" alt="DIY Console Open World Game - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL"><img src="./covers/diyXiaoConsole.jpg" alt="DIY Console Open World Game - watch demo on YouTube" width="100%"></a>
       <h3>🕹️ DIY Console Open World Game</h3>
       <p>Open-world action adventure for ESP32-S3 with sword combat, enemies, scrolling world, and DIY handheld controls.</p>
       <p><strong>Board:</strong> ESP32-S3<br>
       <strong>Display:</strong> TFT<br>
       <strong>Controls:</strong> Joystick + Buttons</p>
-      <p><a href="./OpenWorldGameOnESP32S3">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./OpenWorldGameOnESP32S3">📁 Source</a> · <a href="https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🐍 Snake Game</h3>
