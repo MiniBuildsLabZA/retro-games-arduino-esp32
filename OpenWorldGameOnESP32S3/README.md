@@ -67,6 +67,26 @@ Install the following libraries in the Arduino IDE via **Sketch → Include Libr
 3. Search for and install each library listed above
 4. Restart Arduino IDE after installation
 
+## Getting Started
+
+Follow these steps to build and run the game:
+
+1. Install the Arduino IDE and add the ESP32 board package:
+   - Open Arduino IDE
+   - Go to File → Preferences
+   - Add the ESP32 board URL: `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
+   - Open Tools → Board → Boards Manager
+   - Install `esp32` by Espressif Systems
+2. Install the required libraries listed above.
+3. Open the project file: `OpenWorldGameOnESP32S3/cow_boy.ino`.
+4. Select your board as **XIAO ESP32-S3** (or the matching ESP32-S3 board model).
+5. Choose the correct COM port for your board.
+6. Connect the TFT, joystick, buttons, and audio wiring exactly as shown in the diagram.
+7. Click **Upload** and wait for the sketch to compile and flash to the device.
+8. Power the device and start playing.
+
+If you are using PlatformIO instead of the Arduino IDE, the same project files can be opened and configured through the PlatformIO project environment.
+
 ## Source
 
 Open [`cow_boy.ino`](./cow_boy.ino) in the Arduino IDE or PlatformIO project environment. Include the required asset files in the same folder, select your ESP32-S3 board and port, then upload.
