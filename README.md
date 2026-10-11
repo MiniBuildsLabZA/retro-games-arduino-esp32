@@ -1,6 +1,6 @@
 # DIY Arduino & ESP32 Projects
 
-A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and educational demonstrations for embedded systems.
+A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and DIY electronics experiments for learning embedded systems and game development.
 
 > ▶️ **Click any cover with the YouTube icon to watch the demo video.**
 
@@ -129,6 +129,15 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
+      <a href="https://youtube.com/shorts/REPLACE_WITH_VIDEO_ID"><img src="./covers/diyXiaoConsole.jpg" alt="DIY Console Open World Game - watch demo on YouTube" width="100%"></a>
+      <h3>🕹️ DIY Console Open World Game</h3>
+      <p>Open-world action adventure for ESP32-S3 with sword combat, enemies, scrolling world, and DIY handheld controls.</p>
+      <p><strong>Board:</strong> ESP32-S3<br>
+      <strong>Display:</strong> TFT<br>
+      <strong>Controls:</strong> Joystick + Buttons</p>
+      <p><a href="./OpenWorldGameOnESP32S3">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_VIDEO_ID">▶️ Watch on YouTube</a></p>
+    </td>
+    <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🐍 Snake Game</h3>
       <p>Classic Snake game with OLED display support and smooth controls.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
@@ -136,6 +145,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Controls:</strong> Joystick</p>
       <p><a href="./Snake-game-with-oled">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_SNAKE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>⚽ Pixel Soccer</h3>
       <p>Soccer simulation game with pixel graphics and arcade-style gameplay.</p>
@@ -144,8 +155,6 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Gameplay:</strong> Arcade Soccer</p>
       <p><a href="./Pixel-soccer">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🎾 Tennis Game</h3>
       <p>Tennis simulation on OLED display with two-player or single-player modes.</p>
@@ -154,6 +163,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Gameplay:</strong> Arcade Tennis</p>
       <p><a href="./TennisGameOnOLED">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TENNIS_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>❌ Tic-Tac-Toe</h3>
       <p>Interactive Tic-Tac-Toe game on Arduino UNO with TFT display support.</p>
@@ -162,8 +173,6 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Mode:</strong> Console / Game Board</p>
       <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TIC_TAC_TOE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🔤 Word Scramble</h3>
       <p>Word puzzle game built for microcontroller play with letter scrambling.</p>
@@ -172,6 +181,8 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Type:</strong> Puzzle Game</p>
       <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <h3>🔧 Toggle ON/OFF Motor</h3>
       <p>Control motor operations with TFT touchscreen toggle button functionality.</p>
@@ -180,13 +191,19 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <strong>Interface:</strong> Touchscreen</p>
       <p><a href="./Toggle-ON-OFF-Motor">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TOGGLE_MOTOR_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
+    <td valign="top" width="48%" bgcolor="#f6f8fa">
+      <h3>🧩 More Projects</h3>
+      <p>Explore additional Arduino and ESP32 builds including sensors, games, and hardware control demos.</p>
+      <p><strong>Focus:</strong> Learning & Prototyping</p>
+      <p><a href="./">📁 Browse Collection</a> · <a href="https://github.com/MiniBuildsLabZA/retro-games-arduino-esp32">🔗 Repository</a></p>
+    </td>
   </tr>
 </table>
 
 ## 🛠️ Technologies & Components
 
-- **Microcontrollers**: Arduino, Arduino UNO, ESP32
-- **Display Options**: SSD1306 OLED displays (128x64), ST7735 TFT displays, Touchscreen TFT
+- **Microcontrollers**: Arduino, Arduino UNO, ESP32, ESP32-S3
+- **Display Options**: SSD1306 OLED displays (128x64), ST7735 TFT displays, Touchscreen TFT, TFT handheld displays
 - **Sensors & Modules**: Ultrasonic sensors, servo motors, joysticks, buzzers, buttons
 - **Primary Language**: C++
 - **IDE**: Arduino IDE compatible sketches
@@ -231,20 +248,20 @@ For detailed instructions, refer to each project's folder.
 
 | Category | Count |
 |----------|-------|
-| Game Projects | 16 |
+| Game Projects | 17 |
 | Hardware Control Projects | 2 |
-| Total Projects | 18 |
+| Total Projects | 19 |
 | OLED Projects | 13 |
-| TFT Projects | 3 |
+| TFT Projects | 4 |
 | Arduino Compatible | All |
-| ESP32 Compatible | 6+ |
+| ESP32 Compatible | 7+ |
 
 ## 🎮 Game Genres Covered
 
 - 🏃 **Endless Runners**: Dino Run
 - 🦔 **Platformers**: Sonic (v1 & v2), Mario
 - 🎮 **Arcade Classics**: Pac-Man, Snake
-- 🎯 **Action Games**: Mega Man, Flappy Bird
+- 🎯 **Action Games**: Mega Man, Flappy Bird, DIY Console Open World Game
 - 🏎️ **Racing Games**: Pseudo-3D Racing, Racing Game on ESP32
 - 🧱 **Puzzle Games**: Block Breaker, Word Scramble, Tic-Tac-Toe
 - 🎾 **Sports Simulations**: Tennis Game, Pixel Soccer
@@ -282,7 +299,7 @@ Each project in this collection is provided for educational and hobby purposes. 
 ## 📊 Repository Info
 
 **Created**: November 5, 2025  
-**Last Updated**: September 30, 2026  
+**Last Updated**: October 11, 2026  
 **Language**: C++ (Arduino Sketches)  
 **Status**: Active Development  
 **Maintainer**: MiniBuildsLabZA
