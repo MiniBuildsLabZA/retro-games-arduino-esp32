@@ -111,6 +111,8 @@ https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=Rnxy6Vk&
 
 - Instagram: https://instagram.com/minibuildslabza
 - TikTok: https://www.tiktok.com/@minibuildslabza
+- YouTube :
+https://youtube.com/@minibuildslabza?si=Y6acvOoRvALSHpCg
 
 ## License
 
