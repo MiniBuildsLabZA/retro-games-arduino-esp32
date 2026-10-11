@@ -52,6 +52,21 @@ Connect the display, audio output, joystick, and buttons to the board using the 
 - Combo follow-up: quick repeated button presses
 - Restart after game over: hold the action button after defeat
 
+## Required Libraries
+
+Install the following libraries in the Arduino IDE via **Sketch → Include Library → Manage Libraries**:
+
+- **Adafruit ST7735 and ST7789 Library** - For TFT display control
+- **Adafruit GFX Library** - Graphics library dependency for display rendering
+- **Wire** - Built-in library for I2C communication (if needed)
+- **SPI** - Built-in library for SPI communication
+
+**Installation steps:**
+1. Open Arduino IDE
+2. Go to Sketch → Include Library → Manage Libraries
+3. Search for and install each library listed above
+4. Restart Arduino IDE after installation
+
 ## Source
 
 Open [`cow_boy.ino`](./cow_boy.ino) in the Arduino IDE or PlatformIO project environment. Include the required asset files in the same folder, select your ESP32-S3 board and port, then upload.
@@ -59,3 +74,31 @@ Open [`cow_boy.ino`](./cow_boy.ino) in the Arduino IDE or PlatformIO project env
 ## Notes
 
 The project uses sprite data and generated sound effect tables embedded in the source project files. Adjust pin mappings to suit your DIY console layout if necessary.
+
+---
+
+## 📂 Source Code (Open Source)
+
+https://github.com/MiniBuildsLabZA/retro-games-arduino-esp32
+
+## 🛒 Get the Hardware
+
+**Get the XIAO ESP32-S3:**
+https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?sensecap_affiliate=Rnxy6Vk&referring_service=link
+
+🏷️ **Discount Code:** `XFBTEEYS`
+
+*(Affiliate link: costs you nothing extra and supports the channel)*
+
+## 📱 Follow MiniBuildsLabZA
+
+- Instagram: https://instagram.com/minibuildslabza
+- TikTok: https://www.tiktok.com/@minibuildslabza
+
+## License
+
+This project is open source. Please refer to the LICENSE file in the repository for details.
+
+## 💬 Questions?
+
+Drop your questions in the comments section below or open an issue on GitHub!
