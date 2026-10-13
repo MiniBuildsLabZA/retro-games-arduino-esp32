@@ -2,7 +2,7 @@
 
 [![DIY Console Cover](../covers/diyXiaoConsole.jpg)](https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL)
 
-A compact open-world action game for the ESP32-S3 with a DIY handheld console layout, a TFT display, joystick controls, button-based combat, enemy AI, and built-in sound effects.
+A compact open-world action game for the XIAO ESP32-S3 with a DIY handheld console layout, a TFT display, joystick controls, button-based combat, enemy AI, and built-in sound effects.
 
 ## Demo
 
