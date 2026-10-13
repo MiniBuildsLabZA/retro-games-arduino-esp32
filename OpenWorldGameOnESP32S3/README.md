@@ -116,7 +116,7 @@ https://youtube.com/@minibuildslabza?si=Y6acvOoRvALSHpCg
 
 ## License
 
-This project is open source. Please refer to the LICENSE file in the repository for details.
+This project is open source.
 
 ## 💬 Questions?
 
