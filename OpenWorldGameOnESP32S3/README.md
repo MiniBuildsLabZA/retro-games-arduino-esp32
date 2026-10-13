@@ -1,4 +1,4 @@
-# DIY Console Open World Game on ESP32-S3
+# DIY Console Open World Game on XIAO ESP32-S3
 
 [![DIY Console Cover](../covers/diyXiaoConsole.jpg)](https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL)
 
@@ -20,7 +20,7 @@ https://youtube.com/shorts/Ot62HYaMtuk?si=xbsjx3Xgc9jipoXL
 
 ## Hardware
 
-- ESP32-S3 development board
+- XIAO ESP32-S3 development board
 - ST7735 160x128 TFT display
 - Analog joystick
 - Buttons for action / sword input
