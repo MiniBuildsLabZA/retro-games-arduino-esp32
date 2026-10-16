@@ -10,7 +10,7 @@ https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID
 
 ## Features
 
-- Seeed XIAO RP2040-based handheld console design
+- Seeed XIAO RP2040 Plus and Seeed XIAO Expansion Board -based handheld console design
 - Built-in joystick controls for navigation and movement
 - Multi-game arcade-style library in one firmware build
 - Includes Mario-inspired, Sonic-inspired, Pac-Man-inspired, and other retro games
@@ -20,7 +20,8 @@ https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID
 
 ## Hardware
 
-- Seeed XIAO RP2040
+- Seeed XIAO RP2040 Plus
+- Seeed XIAO Expansion Board
 - 128x64 OLED display
 - Joystick module
 - Buttons for A/B/menu/navigation
@@ -35,11 +36,10 @@ Connect the display, joystick, buttons, and audio output to the XIAO RP2040 acco
 |---|---|
 | OLED SDA | XIAO D0 / SDA |
 | OLED SCL | XIAO D1 / SCL |
-| Joystick X | Analog input |
-| Joystick Y | Analog input |
-| Joystick Button | Digital input |
-| Buttons | Digital inputs |
-| Buzzer / Speaker | PWM-capable GPIO |
+| Joystick X | A0 |
+| Joystick Y | A1 |
+| Joystick Button | D2 |
+| Buzzer / Speaker | A3 |
 | GND | Common ground |
 | 3V3 / 5V | Power as required by your display/module |
 
