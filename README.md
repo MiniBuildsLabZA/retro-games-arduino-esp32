@@ -1,6 +1,6 @@
 # DIY Arduino & ESP32 Projects
 
-A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and DIY electronics experiments for learning embedded systems and game development.
+A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control proj[...]
 
 > ▶️ **Click any cover with the YouTube icon to watch the demo video.**
 
@@ -196,6 +196,17 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p>Explore additional Arduino and ESP32 builds including sensors, games, and hardware control demos.</p>
       <p><strong>Focus:</strong> Learning & Prototyping</p>
       <p><a href="./">📁 Browse Collection</a> · <a href="https://github.com/MiniBuildsLabZA/retro-games-arduino-esp32">🔗 Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" bgcolor="#f6f8fa">
+      <a href="https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID"><img src="./covers/rp2040console.jpg" alt="XIAO RP2040 Console - watch demo on YouTube" width="100%"></a>
+      <h3>🎮 XIAO RP2040 Console</h3>
+      <p>Compact handheld console using the Seeed XIAO RP2040 featuring ports of classic retro games including Mario, Sonic, Pac-Man and more.</p>
+      <p><strong>Board:</strong> Seeed XIAO RP2040 (RP2040)<br>
+      <strong>Display:</strong> SSD1306 OLED (128x64)<br>
+      <strong>Controls:</strong> Joystick</p>
+      <p><a href="./RP2040PlusConsole">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
 </table>
