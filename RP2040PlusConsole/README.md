@@ -1,12 +1,12 @@
 # XIAO RP2040 Console
 
-[![XIAO RP2040 Console Cover](../covers/rp2040console.jpg)](https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID)
+[![XIAO RP2040 Console Cover](../covers/rp2040console.jpg)](https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX)
 
 A compact handheld retro-gaming console built around the Seeed XIAO RP2040. This project brings together multiple classic arcade-inspired games in one portable device, including Mario-style platforming, Sonic-style action, Pac-Man-inspired maze gameplay, and other lightweight retro experiences.
 
 ## Demo
 
-https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID
+https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX
 
 ## Features
 
