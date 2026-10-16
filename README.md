@@ -1,6 +1,6 @@
 # DIY Arduino & ESP32 Projects
 
-A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control proj[...]
+A comprehensive collection of beginner-friendly electronics projects using popular development boards including Arduino and ESP32. This repository showcases interactive games, hardware control projects, and practical embedded systems experiments for learning and prototyping.
 
 > ▶️ **Click any cover with the YouTube icon to watch the demo video.**
 
@@ -29,7 +29,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtu.be/t_ZkNgfslVo    "><img src="./covers/bounce.jpg" alt="Bounce - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtu.be/t_ZkNgfslVo"><img src="./covers/bounce.jpg" alt="Bounce - watch demo on YouTube" width="100%"></a>
       <h3>🏀 Bounce</h3>
       <p>A bouncing ball physics game for Arduino with interactive paddle controls.</p>
       <p><strong>Board:</strong> Arduino<br>
@@ -192,20 +192,12 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <h3>🧩 More Projects</h3>
-      <p>Explore additional Arduino and ESP32 builds including sensors, games, and hardware control demos.</p>
-      <p><strong>Focus:</strong> Learning & Prototyping</p>
-      <p><a href="./">📁 Browse Collection</a> · <a href="https://github.com/MiniBuildsLabZA/retro-games-arduino-esp32">🔗 Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID"><img src="./covers/rp2040console.jpg" alt="XIAO RP2040 Console - watch demo on YouTube" width="100%"></a>
       <h3>🎮 XIAO RP2040 Console</h3>
-      <p>Compact handheld console using the Seeed XIAO RP2040 featuring ports of classic retro games including Mario, Sonic, Pac-Man and more.</p>
-      <p><strong>Board:</strong> Seeed XIAO RP2040 (RP2040)<br>
-      <strong>Display:</strong> SSD1306 OLED (128x64)<br>
-      <strong>Controls:</strong> Joystick</p>
+      <p>Compact handheld console based on the Seeed XIAO RP2040 featuring multiple retro-style games and joystick controls.</p>
+      <p><strong>Board:</strong> Seeed XIAO RP2040<br>
+      <strong>Display:</strong> SSD1306 OLED / TFT options<br>
+      <strong>Controls:</strong> Joystick + Buttons</p>
       <p><a href="./RP2040PlusConsole">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
@@ -213,7 +205,7 @@ A comprehensive collection of beginner-friendly electronics projects using popul
 
 ## 🛠️ Technologies & Components
 
-- **Microcontrollers**: Arduino, Arduino UNO, ESP32, ESP32-S3
+- **Microcontrollers**: Arduino, Arduino UNO, ESP32, ESP32-S3, RP2040
 - **Display Options**: SSD1306 OLED displays (128x64), ST7735 TFT displays, Touchscreen TFT, TFT handheld displays
 - **Sensors & Modules**: Ultrasonic sensors, servo motors, joysticks, buzzers, buttons
 - **Primary Language**: C++
@@ -266,6 +258,7 @@ For detailed instructions, refer to each project's folder.
 | TFT Projects | 4 |
 | Arduino Compatible | All |
 | ESP32 Compatible | 7+ |
+| RP2040 Compatible | 1 |
 
 ## 🎮 Game Genres Covered
 
@@ -278,6 +271,7 @@ For detailed instructions, refer to each project's folder.
 - 🎾 **Sports Simulations**: Tennis Game, Pixel Soccer
 - 🏀 **Physics Games**: Bounce
 - 📡 **Utility Projects**: Arduino TFT Radar, Toggle Motor Control
+- 🎮 **Handheld Consoles**: XIAO RP2040 Console
 
 ## 💡 Key Learning Topics
 
