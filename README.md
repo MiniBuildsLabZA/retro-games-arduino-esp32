@@ -192,13 +192,13 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID"><img src="./covers/rp2040console.jpg" alt="XIAO RP2040 Console - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX"><img src="./covers/rp2040console.jpg" alt="XIAO RP2040 Console - watch demo on YouTube" width="100%"></a>
       <h3>🎮 XIAO RP2040 Plus Console</h3>
       <p>Compact handheld console based on the Seeed XIAO RP2040 Plus featuring multiple retro-style games and joystick controls.</p>
       <p><strong>Board:</strong> Seeed XIAO RP2040 Plus<br>
       <strong>Display:</strong> SSD1306 OLED / TFT options<br>
       <strong>Controls:</strong> Joystick + Buttons</p>
-      <p><a href="./RP2040PlusConsole">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_RP2040_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./RP2040PlusConsole">📁 Source</a> · <a href="https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
 </table>
