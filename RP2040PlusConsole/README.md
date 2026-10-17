@@ -2,7 +2,7 @@
 
 [![XIAO RP2040 Console Cover](../covers/rp2040console.jpg)](https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX)
 
-A compact handheld retro-gaming console built around the Seeed XIAO RP2040. This project brings together multiple classic arcade-inspired games in one portable device, including Mario-style platforming, Sonic-style action, Pac-Man-inspired maze gameplay, and other lightweight retro experiences.
+A compact handheld retro-gaming console built around the Seeed XIAO RP2040. This project brings together multiple classic arcade-inspired games in one portable device, including Mario-style platformer gameplay, Sonic-inspired action, Pac-Man-inspired maze chasing, and other lightweight retro challenges.
 
 ## Demo
 
@@ -28,6 +28,13 @@ https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX
 - Optional buzzer or speaker
 - Battery pack and power switch (optional for portable use)
 
+## Buy the Hardware
+
+Get your hardware ready on the links below and use discount coupon code: XFBTEEYS
+
+- XIAO RP2040 Plus: https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Plus-p-6932.html?sensecap_affiliate=Rnxy6Vk&referring_service=link
+- XIAO Expansion Board: https://www.seeedstudio.com/Seeeduino-XIAO-Expansion-board-p-4746.html?sensecap_affiliate=Rnxy6Vk&referring_service=link
+
 ## Wiring
 
 Connect the display, joystick, buttons, and audio output to the XIAO RP2040 according to the pin definitions in `xiao_rp2040_console.ino`.
@@ -49,6 +56,15 @@ Connect the display, joystick, buttons, and audio output to the XIAO RP2040 acco
 
 Open [`xiao_rp2040_console.ino`](./xiao_rp2040_console.ino) in the Arduino IDE, select the correct board and port for your XIAO RP2040, install any required libraries, and upload the sketch.
 
+Source code: https://github.com/MiniBuildsLabZA/retro-games-arduino-esp32
+
+## Follow / Support
+
+- X: https://x.com/MiniBuildsLabZA
+- Instagram: https://instagram.com/MiniBuildsLabZA
+- YouTube: https://www.youtube.com/@MiniBuildsLabZA
+- TikTok: https://www.tiktok.com/@MiniBuildsLabZA
+
 ## Notes
 
-This project is designed for a DIY portable handheld setup and is intended for educational and hobby experimentation. It demonstrates how to fit multiple simple retro-game mechanics onto a compact microcontroller platform while preserving responsive controls and a small display footprint.
+This project is designed for a DIY portable handheld setup and is intended for educational and hobby experimentation. It demonstrates how to fit multiple simple retro-game mechanics onto a compact embedded board while keeping the build affordable, portable, and easy to customize.
