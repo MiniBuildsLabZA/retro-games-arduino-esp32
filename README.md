@@ -98,13 +98,13 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./Pac-Man_on_arduino">📁 Source</a> · <a href="https://youtube.com/shorts/aVP9bUrWy6I?si=33jqzH-mrr6xtznP">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID"><img src="./covers/pixelsocceroled.jpg" alt="Pixel Soccer - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/pNUZXc-WJ5g?si=UiNqWzp4b4Iu5dik"><img src="./covers/pixelsocceroled.jpg" alt="Pixel Soccer - watch demo on YouTube" width="100%"></a>
       <h3>⚽ Pixel Soccer</h3>
       <p>Soccer simulation game with pixel graphics and arcade-style gameplay.</p>
       <p><strong>Board:</strong> Arduino / Microcontroller<br>
       <strong>Display:</strong> Pixel Screen<br>
       <strong>Gameplay:</strong> Arcade Soccer</p>
-      <p><a href="./Pixel-soccer">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./Pixel-soccer">📁 Source</a> · <a href="https://youtube.com/shorts/pNUZXc-WJ5g?si=UiNqWzp4b4Iu5dik">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
@@ -129,13 +129,13 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_SNAKE_VIDEO_ID"><img src="./covers/snakeoled.jpg" alt="Snake Game - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/iePouueaKYo?si=wLm_RsPmg80rKM7t"><img src="./covers/snakeoled.jpg" alt="Snake Game - watch demo on YouTube" width="100%"></a>
       <h3>🐍 Snake Game</h3>
       <p>Classic Snake game with OLED display support and smooth controls.</p>
       <p><strong>Board:</strong> Arduino / ESP32<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Controls:</strong> Joystick</p>
-      <p><a href="./Snake-game-with-oled">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_SNAKE_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./Snake-game-with-oled">📁 Source</a> · <a href="https://youtube.com/shorts/iePouueaKYo?si=wLm_RsPmg80rKM7t">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/8RqrcE4Sohk?feature=share"><img src="./covers/sonic.jpg" alt="Sonic (v1) - watch demo on YouTube" width="100%"></a>
@@ -158,24 +158,24 @@ A comprehensive collection of beginner-friendly electronics projects using popul
       <p><a href="./SonicOnArduinoVersion2">📁 Source</a> · <a href="https://youtube.com/shorts/6b8Iq4P6gBc?feature=share">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_TENNIS_VIDEO_ID"><img src="./covers/tennisoled.jpg" alt="Tennis Game - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/6r2cnTWWHZc?si=_V5N4E5UkueIsPQ5"><img src="./covers/tennisoled.jpg" alt="Tennis Game - watch demo on YouTube" width="100%"></a>
       <h3>🎾 Tennis Game</h3>
       <p>Tennis simulation on OLED display with two-player or single-player modes.</p>
       <p><strong>Board:</strong> Arduino<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Gameplay:</strong> Arcade Tennis</p>
-      <p><a href="./TennisGameOnOLED">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TENNIS_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./TennisGameOnOLED">📁 Source</a> · <a href="https://youtube.com/shorts/6r2cnTWWHZc?si=_V5N4E5UkueIsPQ5">▶️ Watch on YouTube</a></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_TIC_TAC_TOE_VIDEO_ID"><img src="./covers/tictactoatft.jpg" alt="Tic-Tac-Toe - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/Tz-dND8D-6A?si=AbCoeuQl3rb565W7"><img src="./covers/tictactoatft.jpg" alt="Tic-Tac-Toe - watch demo on YouTube" width="100%"></a>
       <h3>❌ Tic-Tac-Toe</h3>
       <p>Interactive Tic-Tac-Toe game on Arduino UNO with TFT display support.</p>
       <p><strong>Board:</strong> Arduino UNO<br>
       <strong>Display:</strong> TFT Display<br>
       <strong>Mode:</strong> Console / Game Board</p>
-      <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_TIC_TAC_TOE_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./Tic-tac-toe-uno-and-tft">📁 Source</a> · <a href="https://youtube.com/shorts/Tz-dND8D-6A?si=AbCoeuQl3rb565W7">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/REPLACE_WITH_TOGGLE_MOTOR_VIDEO_ID"><img src="./covers/togglemotor.jpg" alt="Toggle ON/OFF Motor - watch demo on YouTube" width="100%"></a>
@@ -189,13 +189,13 @@ A comprehensive collection of beginner-friendly electronics projects using popul
   </tr>
   <tr>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
-      <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID"><img src="./covers/wordscramble.jpg" alt="Word Scramble - watch demo on YouTube" width="100%"></a>
+      <a href="https://youtube.com/shorts/893WOPlqINQ?si=rJjIYUj5eY_BgfKE"><img src="./covers/wordscramble.jpg" alt="Word Scramble - watch demo on YouTube" width="100%"></a>
       <h3>🔤 Word Scramble</h3>
       <p>Word puzzle game built for microcontroller play with letter scrambling.</p>
       <p><strong>Board:</strong> Arduino / Embedded Board<br>
       <strong>Display:</strong> SSD1306 OLED<br>
       <strong>Type:</strong> Puzzle Game</p>
-      <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID">▶️ Watch on YouTube</a></p>
+      <p><a href="./WordScramble">📁 Source</a> · <a href="https://youtube.com/shorts/893WOPlqINQ?si=rJjIYUj5eY_BgfKE">▶️ Watch on YouTube</a></p>
     </td>
     <td valign="top" width="48%" bgcolor="#f6f8fa">
       <a href="https://youtube.com/shorts/zhR7zLngFXc?si=1gQ5dL1BJf7RmPIX"><img src="./covers/rp2040console.jpg" alt="XIAO RP2040 Console - watch demo on YouTube" width="100%"></a>
