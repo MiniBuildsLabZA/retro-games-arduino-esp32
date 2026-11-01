@@ -1,6 +1,6 @@
 # Tic-Tac-Toe on Arduino UNO and TFT
 
-![Tic-Tac-Toe Cover](../covers/tictactoettft.jpg)
+![Tic-Tac-Toe Cover](../covers/tictactoattft.jpg)
 
 An interactive Tic-Tac-Toe game for Arduino UNO with TFT display support.
 
