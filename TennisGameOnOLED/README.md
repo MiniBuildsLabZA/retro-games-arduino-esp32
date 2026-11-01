@@ -1,12 +1,12 @@
 # Tennis Game on OLED
 
-[![Tennis Game Cover](../covers/tennisoled.jpg)](https://youtube.com/shorts/REPLACE_WITH_TENNIS_VIDEO_ID)
+[![Tennis Game Cover](../covers/tennisoled.jpg)](https://youtube.com/shorts/6r2cnTWWHZc?si=_V5N4E5UkueIsPQ5)
 
 A tennis simulation for an OLED display with arcade-style gameplay and support for single-player or two-player controls.
 
 ## Demo
 
-https://youtube.com/shorts/REPLACE_WITH_TENNIS_VIDEO_ID
+https://youtube.com/shorts/6r2cnTWWHZc?si=_V5N4E5UkueIsPQ5
 
 ## Hardware
 
