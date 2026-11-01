@@ -1,8 +1,12 @@
 # Pixel Soccer
 
-![Pixel Soccer Cover](../covers/pixelsocceroled.jpg)
+[![Pixel Soccer Cover](../covers/pixelsocceroled.jpg)](https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID)
 
 A pixel-art soccer simulation with arcade-style gameplay for a microcontroller.
+
+## Demo
+
+https://youtube.com/shorts/REPLACE_WITH_PIXEL_SOCCER_VIDEO_ID
 
 ## Hardware
 

@@ -1,8 +1,12 @@
 # Word Scramble
 
-![Word Scramble Cover](../covers/wordscramble.jpg)
+[![Word Scramble Cover](../covers/wordscramble.jpg)](https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID)
 
 A word puzzle game for a microcontroller that challenges the player to unscramble letters.
+
+## Demo
+
+https://youtube.com/shorts/REPLACE_WITH_WORD_SCRAMBLE_VIDEO_ID
 
 ## Hardware
 
