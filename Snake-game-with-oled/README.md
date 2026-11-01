@@ -17,7 +17,7 @@ https://youtube.com/shorts/iePouueaKYo?si=wLm_RsPmg80rKM7t
 
 ## Wiring
 
-![Snake Game Wiring Diagram](../wiring/snakewiring.jpg)
+![Snake Game Wiring Diagram](../wiring/wiring1.jpg)
 
 | Component | Pin |
 |---|---|
