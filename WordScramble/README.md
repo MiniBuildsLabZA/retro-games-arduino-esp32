@@ -21,10 +21,10 @@ https://youtube.com/shorts/893WOPlqINQ?si=rJjIYUj5eY_BgfKE
 
 | Component | Pin |
 |---|---|
-| OLED SDA | board SDA |
-| OLED SCL | board SCL |
+| OLED SDA | A4|
+| OLED SCL | A5|
 | Input controls | As defined in sketch |
-| Buzzer (optional) | 3 |
+| Buzzer (optional) | 2 |
 
 ## Source
 
