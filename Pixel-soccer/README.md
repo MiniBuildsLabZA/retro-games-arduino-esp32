@@ -17,7 +17,7 @@ https://youtube.com/shorts/pNUZXc-WJ5g?si=UiNqWzp4b4Iu5dik
 
 ## Wiring
 
-![Pixel Soccer Wiring Diagram](../wiring/pixelsoccerwiring.jpg)
+![Pixel Soccer Wiring Diagram](../wiring/wiring1.jpg)
 
 Connect the display and controls according to the pin definitions in `Source-code`. Provide shared power and ground, and verify the display interface before uploading.
 
