@@ -1,6 +1,6 @@
 # Snake Game with OLED
 
-![Snake Game Cover](../covers/snake.jpg)
+![Snake Game Cover](../covers/snakeoled.jpg)
 
 A classic Snake game for Arduino/ESP32 with SSD1306 OLED display support and joystick controls.
 
