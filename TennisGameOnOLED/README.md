@@ -17,7 +17,7 @@ https://youtube.com/shorts/6r2cnTWWHZc?si=_V5N4E5UkueIsPQ5
 
 ## Wiring
 
-![Tennis Game Wiring Diagram](../wiring/tenniswiring.jpg)
+![Tennis Game Wiring Diagram](../wiring/wiring1.jpg)
 
 Connect the OLED to the board's I2C pins (SDA/SCL). Connect each controller to the input pins defined in `Source code`, with shared power and ground.
 
