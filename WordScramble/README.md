@@ -17,7 +17,7 @@ https://youtube.com/shorts/893WOPlqINQ?si=rJjIYUj5eY_BgfKE
 
 ## Wiring
 
-![Word Scramble Wiring Diagram](../wiring/wordscramblewiring.jpg)
+![Word Scramble Wiring Diagram](../wiring/wiring1.jpg)
 
 | Component | Pin |
 |---|---|
