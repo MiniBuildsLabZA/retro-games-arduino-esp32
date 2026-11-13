@@ -298,6 +298,7 @@ For detailed instructions, refer to each project's folder.
 | Arduino IDE | https://www.arduino.cc/en/software |
 | Adafruit GFX Library | https://github.com/adafruit/Adafruit-GFX-Library |
 | Adafruit SSD1306 Library | https://github.com/adafruit/Adafruit_SSD1306 |
+| Adafruit ST7735 Library | https://github.com/adafruit/Adafruit-ST7735-Library |
 | Arduino Official Site | https://www.arduino.cc |
 | ESP32 Official Site | https://www.espressif.com/en/products/microcontrollers/esp32 |
 
